@@ -15,9 +15,9 @@ Each project follows the same structure: business problem → data → solution 
 Finnish labor market data (stat.fi) combined with a synthetic hiring funnel.
 Built to answer the question every recruiter has but rarely sees visualized.
 
-**Stack:** Python · SQL · Power BI Service  
-**Skills demonstrated:** DAX time intelligence · star schema · drill-through · Power BI Service publish  
-→ [View project](./01-hr-hiring-analytics/)
+**Stack:** Python · SQL · Power BI · Tableau Public  
+**Skills demonstrated:** DAX · star schema · contextual tooltips · dual-tool delivery  
+→ [View live dashboard](https://public.tableau.com/app/profile/julia.v.mosina/viz/HRHiringAnalyticsFinlandITMarket2024-2026/Dashboard3) · [View project](./01-hr-hiring-analytics/)
 
 ---
 
