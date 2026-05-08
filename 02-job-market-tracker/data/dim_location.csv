@@ -1,0 +1,10 @@
+location_id,location_name,region,is_capital_region
+1,Espoo,Uusimaa,True
+2,Helsinki,Uusimaa,True
+3,Jyväskylä,Central Finland,False
+4,Other Finland,Other,False
+5,Oulu,North Ostrobothnia,False
+6,Remote,Remote,False
+7,Tampere,Pirkanmaa,False
+8,Turku,Southwest Finland,False
+9,Vantaa,Uusimaa,True

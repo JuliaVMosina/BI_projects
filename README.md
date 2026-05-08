@@ -24,12 +24,12 @@ Built to answer the question every recruiter has but rarely sees visualized.
 ### 02 · Finland Tech Job Market Tracker
 > *What skills does the Finnish market actually require in 2026?*
 
-Aggregated job posting data from Finnish job boards, analyzed with Python NLP
-to extract skill demand trends — updated monthly.
+600 job postings from the Finnish IT market analyzed with Python NLP to extract
+skill demand trends across seniority levels, companies, and regions.
 
 **Stack:** Python · SQL · Tableau Public  
-**Skills demonstrated:** web data collection · NLP · trend analysis · Tableau Public publish  
-→ [View project](./02-job-market-tracker/)
+**Skills demonstrated:** data collection · keyword NLP · star schema · seniority segmentation · trend analysis  
+→ [View live dashboard](https://public.tableau.com/app/profile/julia.v.mosina/viz/FinlandTechJobMarketSkillDemandTracker20242026/Dashboard1) · [View project](./02-job-market-tracker/)
 
 ---
 

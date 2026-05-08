@@ -1,0 +1,26 @@
+skill_id,skill_name,category
+1,A/B Testing,Analytics Method
+2,AWS,Cloud
+3,Airflow,Data Engineering
+4,Azure,Cloud
+5,DAX,Language
+6,DBT,Data Engineering
+7,Databricks,Data Engineering
+8,Excel,General
+9,GCP,Cloud
+10,Looker,BI Tool
+11,Looker Studio,BI Tool
+12,Machine Learning,Analytics Method
+13,Microsoft Fabric,Cloud
+14,Power BI,BI Tool
+15,Power Query,Language
+16,Python,Language
+17,Qlik,BI Tool
+18,R,Language
+19,SQL,Language
+20,SSRS,BI Tool
+21,Snowflake,Data Engineering
+22,Spark,Data Engineering
+23,Statistics,Analytics Method
+24,Superset,BI Tool
+25,Tableau,BI Tool

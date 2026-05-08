@@ -1,0 +1,601 @@
+job_id,title,company,date,location,seniority,skills,skill_count,link,source
+f05caab19c09,Product Analyst,CGI Finland,2024-01-21,Remote,Mid,SQL|Python|Power BI|Statistics,4,,synthetic
+b8fa3b36389e,Data Analyst (Entry Level),Elisa,2025-01-22,Helsinki,Junior,Python|Power BI|Excel|Azure|Tableau|Spark|Power Query,7,,synthetic
+df8b93b6965c,Head of Analytics,VR Group,2026-03-02,Remote,Senior,SQL|Python|Power BI|Excel|Tableau|A/B Testing|Spark|Microsoft Fabric,8,,synthetic
+64430d940c99,Senior Analytics Engineer,Wolt,2025-10-04,Helsinki,Senior,SQL|Python|Excel|Statistics|Machine Learning|A/B Testing|Looker,7,,synthetic
+62815a5bb413,Data Analyst (Entry Level),Reaktor,2024-12-13,Tampere,Junior,SQL|Power BI|Azure|Statistics|Machine Learning|Looker,6,,synthetic
+92399adc835c,Senior Data Analyst,Siili Solutions,2025-01-19,Helsinki,Senior,SQL|Python|Power BI|Azure|Machine Learning|DAX|Looker|GCP,8,,synthetic
+2964a122b032,Data Analyst,Digia,2026-02-17,Jyväskylä,Mid,SQL|Python|Azure|DBT,4,,synthetic
+49616d9ad209,Junior Business Analyst,Gofore,2024-12-03,Vantaa,Junior,SQL|Python|Excel|Azure|Statistics,5,,synthetic
+fceb5e0543cf,Data Analyst,Nordea,2024-06-20,Remote,Mid,Excel|Azure,2,,synthetic
+fffcf31bd240,Head of Analytics,Kone,2025-11-12,Remote,Senior,SQL|DAX|Airflow|GCP|AWS,5,,synthetic
+aa9f3cc74dc3,Product Analyst,Stora Enso,2024-04-12,Helsinki,Mid,SQL|Python|Power BI|Snowflake|DAX,5,,synthetic
+03dd2d55e388,Senior Analytics Engineer,Metso,2024-09-03,Tampere,Senior,SQL|Python|Power BI|Excel|Azure|Tableau|Statistics|Spark|DBT|Power Query|GCP,11,,synthetic
+60e8383bd1d0,Analytics Engineer,Vincit,2024-06-08,Jyväskylä,Mid,Python|Power BI|Azure|Databricks|Snowflake|DAX|Microsoft Fabric|Power Query|Qlik,9,,synthetic
+9195fb925c29,Senior Data Analyst,Metso,2025-11-06,Remote,Senior,SQL|Azure|DAX|GCP,4,,synthetic
+c97d49128e41,Head of Analytics,Nordea,2024-03-09,Vantaa,Senior,SQL|Python|Statistics|A/B Testing|DAX,5,,synthetic
+7f488faecd34,Principal Analytics Engineer,Digia,2025-10-18,Espoo,Senior,Excel|Azure|Spark|Databricks|DAX|Microsoft Fabric|Airflow,7,,synthetic
+8141feda57ce,Junior Business Analyst,Softwave,2024-03-20,Helsinki,Junior,SQL|Power BI|Snowflake,3,,synthetic
+b7248a7e1f85,Senior Data Analyst,Kone,2025-12-24,Tampere,Senior,SQL|Python|Power BI|Excel|A/B Testing|Databricks|SSRS|Superset,8,,synthetic
+8e36ec9792d6,Junior Business Analyst,Neste,2026-02-09,Tampere,Junior,SQL|Azure|Statistics|DAX|Superset,5,,synthetic
+0ef63e7bcca1,Lead Data Analyst,DNA Finland,2024-04-12,Remote,Senior,SQL|Python|Power BI|Azure,4,,synthetic
+e7bb7ce68231,Junior BI Analyst,Gofore,2024-12-25,Helsinki,Junior,SQL|Python|Excel|Statistics|DBT|Superset,6,,synthetic
+9e1d46be67e8,Principal Analytics Engineer,Gofore,2025-12-19,Tampere,Senior,SQL|Power BI|Statistics|Machine Learning|A/B Testing|Snowflake|Power Query,7,,synthetic
+d86d955030f7,BI Analyst,Digia,2024-04-20,Vantaa,Mid,SQL|Power BI|DAX|GCP|Looker Studio,5,,synthetic
+b45d353de64b,Lead Data Analyst,Reaktor,2024-01-04,Tampere,Senior,SQL|Power BI|Spark|Looker,4,,synthetic
+9588db248f6c,Analytics Engineer,Solita,2024-11-16,Remote,Mid,SQL|Python|Power BI|Excel|Statistics|Power Query,6,,synthetic
+b43d4c3efed0,Senior BI Analyst,Capgemini Finland,2024-10-22,Tampere,Senior,SQL|DBT,2,,synthetic
+d243895d1bb1,Senior BI Analyst,Solita,2025-06-05,Helsinki,Senior,SQL|Power BI|Excel|Azure|Snowflake,5,,synthetic
+f522d17167bf,Junior BI Analyst,Gofore,2025-11-13,Helsinki,Junior,Python|Tableau|DAX,3,,synthetic
+88fd6547e478,Junior Data Analyst,Capgemini Finland,2025-08-24,Espoo,Junior,Python|Power BI|Azure|Tableau|Machine Learning|A/B Testing|Airflow,7,,synthetic
+27514576252b,Graduate Data Analyst,Metso,2024-11-13,Helsinki,Junior,SQL|Python|Power BI|Excel|Tableau|GCP|Superset,7,,synthetic
+6b92091735a6,Product Analyst,Accenture Finland,2024-11-23,Vantaa,Mid,SQL|Power BI|Azure|Tableau|Statistics|Airflow|Power Query|R,8,,synthetic
+d6e3f9a1a184,Analytics Engineer,Digia,2025-06-15,Tampere,Mid,SQL|Python|Power BI|Excel|Azure|Machine Learning|DAX|Superset,8,,synthetic
+02cf8d759039,Senior Analytics Engineer,Gofore,2024-02-03,Tampere,Senior,SQL|Python|Excel|Azure|Tableau|Power Query,6,,synthetic
+8873f671fdfa,Senior BI Analyst,KPMG Finland,2024-02-24,Tampere,Senior,SQL|Excel|Azure|Tableau|Machine Learning|Snowflake|DAX,7,,synthetic
+579d05b35944,Data Analyst (Entry Level),Futurice,2025-07-22,Helsinki,Junior,SQL|Python|Power BI|Microsoft Fabric|GCP,5,,synthetic
+1392bb2dd063,Lead Data Analyst,Varma,2025-02-05,Turku,Senior,SQL|Python|Excel|AWS,4,,synthetic
+f617a01a4024,Junior Data Analyst,Tietoevry,2025-04-21,Helsinki,Junior,SQL|Python|Excel|Azure|Tableau|Spark|Looker,7,,synthetic
+8fb5a8c8b1a2,Senior Analytics Engineer,Oura,2026-04-24,Vantaa,Senior,Power BI|Excel|Tableau|Machine Learning|A/B Testing|DBT,6,,synthetic
+44f562d35e6f,Analytics Engineer,Metso,2024-12-22,Helsinki,Mid,SQL|Power BI|Excel|DBT|Power Query,5,,synthetic
+ba24dca57247,Product Analyst,Neste,2024-10-15,Tampere,Mid,Databricks|Microsoft Fabric|Looker Studio,3,,synthetic
+d3d8682c480b,SQL Analyst,Softwave,2025-11-30,Vantaa,Mid,SQL|Power BI|Excel|Azure|A/B Testing|R,6,,synthetic
+ed79056578e9,Data Analyst,Digia,2025-10-07,Helsinki,Mid,SQL|Power BI|Excel|Azure|Machine Learning|R,6,,synthetic
+d106880f5285,BI Analyst,Capgemini Finland,2024-06-11,Remote,Mid,SQL|Python|Power BI|Statistics|DAX|Microsoft Fabric,6,,synthetic
+12b5f1a1cc30,Graduate Data Analyst,Nordea,2024-03-04,Helsinki,Junior,SQL|Python|Power BI|Excel|Statistics|DBT|Snowflake|GCP,8,,synthetic
+81c96a293197,Data Analyst (Entry Level),Gofore,2024-06-14,Espoo,Junior,SQL|Python|Excel|Azure|Tableau|A/B Testing|DBT,7,,synthetic
+e60e6392791c,Principal Analytics Engineer,Gofore,2025-06-20,Helsinki,Senior,Python|Excel|Azure|Power Query|Looker,5,,synthetic
+91b6ef3133a2,Data Analyst,Administer,2025-08-30,Helsinki,Mid,SQL|Python|Power BI,3,,synthetic
+dd5045c0e016,SQL Analyst,Nordea,2026-04-17,Vantaa,Mid,SQL|Python|Power BI|Azure|A/B Testing,5,,synthetic
+1aabf9b08c11,Senior Analytics Engineer,Kone,2025-09-11,Espoo,Senior,SQL|Python|Excel|Azure|Tableau|Machine Learning|A/B Testing|Spark|DBT|Power Query,10,,synthetic
+7b1cac641efd,Junior BI Analyst,Solita,2025-01-09,Jyväskylä,Junior,SQL|Python|Excel|Azure|Statistics|DBT|Airflow,7,,synthetic
+44e28f8ac528,Data Analyst,Capgemini Finland,2025-11-18,Turku,Mid,SQL|Python|Power BI|Excel|Superset,5,,synthetic
+645bca8a1b75,BI Analyst,Solita,2026-02-15,Vantaa,Mid,SQL|Power BI|Excel|Azure|Tableau|Airflow|Looker,7,,synthetic
+bba70bd65e1a,Junior BI Analyst,Varma,2025-05-08,Helsinki,Junior,SQL|Power BI|Excel|Statistics|A/B Testing|Spark|Microsoft Fabric|AWS,8,,synthetic
+ca15e73ac697,Senior Data Analyst,Oura,2026-02-21,Helsinki,Senior,SQL|Python|Azure|Tableau|Machine Learning|Databricks|GCP,7,,synthetic
+6268c23575d6,BI Analyst,Elisa,2024-11-15,Tampere,Mid,SQL|Python|Power BI|Excel|Machine Learning|A/B Testing|Snowflake|DAX,8,,synthetic
+e1c65fdf751f,Head of Analytics,Fortum,2024-02-27,Tampere,Senior,SQL|Python|Machine Learning|DBT|Microsoft Fabric,5,,synthetic
+21af32097bba,Head of Analytics,OP Financial Group,2024-03-24,Turku,Senior,SQL|Python|Excel|Machine Learning|Databricks,5,,synthetic
+0afb61e1afc9,Data Analyst (Entry Level),S-Group,2025-10-31,Espoo,Junior,SQL|Python|Power BI|Azure|Tableau|Statistics|Machine Learning,7,,synthetic
+8a07e4c87256,Analytics Engineer,Gofore,2025-10-14,Remote,Mid,Power BI|Azure|Tableau|R,4,,synthetic
+2a81ecef66dd,Product Analyst,Accenture Finland,2026-03-30,Helsinki,Mid,SQL|Azure|Spark|DAX,4,,synthetic
+4c2bc3679c23,Graduate Data Analyst,Digia,2025-12-03,Helsinki,Junior,SQL|Python|Power BI|Excel|Tableau|Snowflake|DAX|Looker,8,,synthetic
+a0aa9b655513,SQL Analyst,Accenture Finland,2024-06-21,Oulu,Mid,SQL|Power BI|Azure|Tableau|Machine Learning|A/B Testing|Spark|Looker Studio,8,,synthetic
+b5aa111f8b1e,Senior Data Analyst,KPMG Finland,2024-11-24,Remote,Senior,SQL|Python|Power BI|Machine Learning,4,,synthetic
+39c07003484d,Lead Data Analyst,Accenture Finland,2025-11-16,Helsinki,Senior,SQL|Excel|Tableau|A/B Testing|DAX,5,,synthetic
+3cf83eb9f319,Data Analyst,Siili Solutions,2025-11-26,Remote,Mid,SQL|Python|Power BI|Excel|Machine Learning,5,,synthetic
+50a70b213ceb,Senior Data Analyst,S-Group,2025-02-21,Helsinki,Senior,SQL|Python|Statistics|Databricks|DAX|Airflow,6,,synthetic
+7437339f7b61,Senior Analytics Engineer,Tietoevry,2025-08-16,Tampere,Senior,SQL|Python|Power BI|Azure|A/B Testing|Snowflake|Power Query,7,,synthetic
+0af3391be4c9,SQL Analyst,Administer,2024-05-16,Remote,Mid,Python|Power BI|Azure|Databricks|AWS,5,,synthetic
+8f131098fe99,Junior BI Analyst,Tietoevry,2024-07-06,Helsinki,Junior,SQL|Power BI|Excel|Azure|Tableau|Statistics|Machine Learning|Looker,8,,synthetic
+59ebf44e9409,Head of Analytics,Nordea,2025-03-01,Helsinki,Senior,Excel|Tableau|Machine Learning|DAX|Power Query,5,,synthetic
+de07a60838aa,BI Analyst,Accenture Finland,2025-05-31,Turku,Mid,Excel|Azure|Machine Learning|Databricks,4,,synthetic
+7438c65ccc14,Senior Data Analyst,Stora Enso,2026-01-29,Helsinki,Senior,SQL|Power BI|Excel|Azure,4,,synthetic
+1847d094dcf5,Senior Data Analyst,KPMG Finland,2024-08-07,Other Finland,Senior,SQL|Python|Azure|Machine Learning|GCP,5,,synthetic
+50e19d05baf9,Junior Business Analyst,Metso,2024-09-21,Helsinki,Junior,SQL|Python|Excel|Microsoft Fabric,4,,synthetic
+9531e7ef481f,Senior BI Analyst,DNA Finland,2024-03-06,Helsinki,Senior,SQL|Python|Excel|Statistics|Machine Learning|Snowflake|Qlik|Looker Studio,8,,synthetic
+dc8d8d18fe90,Product Analyst,Digia,2026-04-19,Helsinki,Mid,SQL|Python|Excel|Azure|Statistics|A/B Testing,6,,synthetic
+ddc590d4ddfe,Graduate Data Analyst,Nordea,2026-03-31,Helsinki,Junior,SQL|Python|Excel|Spark|DBT|DAX|R,7,,synthetic
+8387c6abba01,Head of Analytics,Oura,2024-12-08,Tampere,Senior,SQL|Python|Power BI|DAX,4,,synthetic
+a92b111b8cd9,Analytics Engineer,Tietoevry,2024-12-27,Helsinki,Mid,Python|Power BI|Excel|Tableau|Statistics|A/B Testing|Spark|Databricks|Snowflake,9,,synthetic
+e55918c8ddbb,Lead Data Analyst,Varma,2024-11-28,Remote,Senior,Python|Power BI|Statistics|DAX|Power Query,5,,synthetic
+e762a2b1cb97,Senior Data Analyst,Siili Solutions,2026-02-08,Espoo,Senior,SQL|Python|Power BI|Azure|DBT|Snowflake|Airflow|GCP,8,,synthetic
+4bf286f8b569,BI Analyst,VR Group,2025-02-23,Remote,Mid,SQL|Python|Power BI|Azure|Looker Studio,5,,synthetic
+ba4c5831bfbc,Data Analyst – Power BI,Capgemini Finland,2025-01-29,Helsinki,Mid,SQL|Python|Excel|Azure|A/B Testing|DBT|Microsoft Fabric|Airflow|R,9,,synthetic
+a45d7274fb3b,Analytics Engineer,Oura,2024-07-19,Vantaa,Mid,Python|Excel|Azure|Tableau|Machine Learning|Power Query,6,,synthetic
+262a2713566c,Data Analyst,Varma,2024-04-08,Espoo,Mid,Python|Power BI|Azure|Statistics,4,,synthetic
+b45943ed0fc9,BI Analyst,Finnair,2024-08-15,Tampere,Mid,SQL|Python|Excel|Airflow,4,,synthetic
+f0e5b5533e51,Head of Analytics,Tietoevry,2025-12-26,Espoo,Senior,SQL|Python|Power BI|Excel|Azure|Statistics|Machine Learning|Spark|Microsoft Fabric,9,,synthetic
+598c8fa2daa4,Junior BI Analyst,Varma,2025-02-17,Helsinki,Junior,SQL|Python|Power BI|Statistics|Machine Learning|DBT|Looker Studio,7,,synthetic
+34006aaf8dc2,Head of Analytics,Nordea,2025-06-16,Helsinki,Senior,SQL|Python|Excel,3,,synthetic
+1eeeaf1f24eb,Product Analyst,Gofore,2024-06-02,Helsinki,Mid,SQL|Python|Azure|Tableau|Machine Learning|DBT|AWS,7,,synthetic
+31664de942e2,Business Intelligence Analyst,Solita,2024-01-13,Helsinki,Mid,SQL|Python|Power BI|Tableau|Spark|Microsoft Fabric|Looker,7,,synthetic
+b267af67b864,Head of Analytics,Fortum,2026-01-18,Remote,Senior,SQL|Python|Azure|A/B Testing|Snowflake|DAX|Looker|GCP,8,,synthetic
+175271638f25,Business Intelligence Analyst,Elisa,2025-02-12,Helsinki,Mid,Python|Excel|A/B Testing|Spark|Snowflake|Microsoft Fabric|GCP,7,,synthetic
+d1b6f873d50d,Junior Data Analyst,Reaktor,2025-05-18,Remote,Junior,SQL|Python|Power BI|Excel|Azure|Tableau|Spark|Power Query,8,,synthetic
+89d498b54a7f,Principal Analytics Engineer,DNA Finland,2025-05-05,Espoo,Senior,SQL|Power BI|Tableau|Databricks,4,,synthetic
+8f36de296525,Principal Analytics Engineer,Varma,2024-06-09,Oulu,Senior,SQL|Power BI|Excel|Tableau|Power Query|Looker,6,,synthetic
+f7b55bdc25db,Analytics Engineer,Finnair,2025-05-09,Remote,Mid,SQL|Python|Snowflake|AWS,4,,synthetic
+41c9462d3e96,Senior Data Analyst,Varma,2026-04-14,Tampere,Senior,SQL|Machine Learning|Microsoft Fabric|Looker|R,5,,synthetic
+39a4af47e56c,Business Intelligence Analyst,OP Financial Group,2024-04-18,Remote,Mid,SQL|Azure|A/B Testing|Microsoft Fabric|Airflow,5,,synthetic
+321ff184a4cf,Junior BI Analyst,Oura,2024-10-05,Tampere,Junior,Python|Power BI|Excel|Tableau|A/B Testing|Spark|DBT|DAX,8,,synthetic
+339af26efa47,Junior BI Analyst,Capgemini Finland,2025-07-04,Other Finland,Junior,SQL|Power BI|Excel|Azure|Machine Learning,5,,synthetic
+75a1b96c3e25,Data Analyst (Entry Level),Kesko,2024-06-15,Helsinki,Junior,Python|Power BI|Excel|Azure|Tableau|Machine Learning|A/B Testing|R,8,,synthetic
+e326a5639be5,Data Analyst,Varma,2024-06-16,Remote,Mid,SQL|Python|Azure|A/B Testing|DBT|AWS,6,,synthetic
+8091a5a11f80,Data Analyst,Capgemini Finland,2024-04-06,Espoo,Mid,SQL|Excel|Azure|Tableau|A/B Testing|Spark|Microsoft Fabric|SSRS,8,,synthetic
+bbbcb5c7ff92,Junior Data Analyst,Nordea,2024-03-22,Other Finland,Junior,SQL|Python|Power BI|Excel|Azure|Tableau|Machine Learning|Snowflake|DAX|Power Query|AWS,11,,synthetic
+c97573ee149f,Principal Analytics Engineer,Elisa,2024-02-28,Espoo,Senior,SQL|Excel|Azure|A/B Testing|DAX|Superset,6,,synthetic
+656e020792bf,SQL Analyst,Gofore,2025-02-12,Remote,Mid,SQL|Python|Power BI|Azure|DBT|Microsoft Fabric,6,,synthetic
+e07a2f414dc4,Lead Data Analyst,VR Group,2024-06-12,Remote,Senior,Python|Power BI|Machine Learning,3,,synthetic
+3f0106c760dc,Graduate Data Analyst,S-Group,2025-11-28,Helsinki,Junior,SQL|Python|Power BI|Excel|Statistics|Databricks|DAX,7,,synthetic
+c9393bcfa60c,Data Analyst,Digia,2026-01-18,Turku,Mid,SQL|Excel|Azure|A/B Testing,4,,synthetic
+790b53545a87,Data Analyst (Entry Level),Solita,2025-04-29,Helsinki,Junior,SQL|Python|Power BI|Excel|Azure|Tableau|Machine Learning|Spark|Microsoft Fabric,9,,synthetic
+c12093b42ecc,Lead Data Analyst,Solita,2024-05-20,Tampere,Senior,Python|Power BI|Excel|Tableau|Machine Learning|Spark|Airflow|Looker|Looker Studio,9,,synthetic
+b786e4123dfa,Data Analyst,VR Group,2025-05-13,Turku,Mid,SQL|Python|Power BI|Excel|Machine Learning|DBT|DAX,7,,synthetic
+7696a7958202,Graduate Data Analyst,Wolt,2025-07-27,Helsinki,Junior,SQL|Python|Power BI|Excel|DBT|Databricks|Snowflake|GCP,8,,synthetic
+f5bd1ad52182,SQL Analyst,Digia,2026-02-27,Helsinki,Mid,SQL|Power BI|Azure|Machine Learning|A/B Testing|Power Query,6,,synthetic
+53ff6ebe53b1,Head of Analytics,DNA Finland,2024-06-04,Espoo,Senior,SQL|Python|Azure,3,,synthetic
+767d1b1f0691,Senior BI Analyst,Wolt,2024-09-14,Vantaa,Senior,SQL|Spark|R|AWS|SSRS,5,,synthetic
+efa65a76c5b2,BI Analyst,Gofore,2024-12-20,Tampere,Mid,Python|Power BI|Excel|Azure|A/B Testing,5,,synthetic
+948e07b6d640,Business Intelligence Analyst,Finnair,2024-10-03,Helsinki,Mid,SQL|Python|Azure|Spark|DBT|Microsoft Fabric|Power Query,7,,synthetic
+21f6e547c74e,Data Analyst – Power BI,VR Group,2025-06-21,Vantaa,Mid,SQL|Python|Azure|Tableau,4,,synthetic
+72f447d30722,Junior BI Analyst,Capgemini Finland,2026-02-23,Espoo,Junior,Power BI|Excel|Azure|Tableau|Statistics|Spark|DBT|Databricks,8,,synthetic
+77e899aa4289,Data Analyst (Entry Level),Accenture Finland,2024-06-14,Remote,Junior,Python|Power BI|Excel|Azure|Machine Learning|DBT|Microsoft Fabric|R,8,,synthetic
+d538045f6a96,Head of Analytics,Capgemini Finland,2026-04-28,Tampere,Senior,SQL|Power BI|Excel|Spark|Databricks,5,,synthetic
+4bede9387672,Principal Analytics Engineer,KPMG Finland,2024-02-22,Helsinki,Senior,SQL|Python|Power BI|Azure|A/B Testing|Snowflake|Looker Studio,7,,synthetic
+2265e4cc3d2e,Senior Analytics Engineer,DNA Finland,2025-04-25,Remote,Senior,SQL|Python|Power BI|Excel|DBT,5,,synthetic
+cb3fc92ad5ed,Analytics Engineer,Neste,2025-04-23,Espoo,Mid,SQL|Python|Power BI|A/B Testing|R,5,,synthetic
+4356cf8428b9,Head of Analytics,Digia,2024-07-10,Espoo,Senior,SQL|Python|Power BI|Excel|Azure|Tableau|Statistics|Machine Learning,8,,synthetic
+b1b505d91886,Analytics Engineer,Solita,2024-07-28,Espoo,Mid,Python|Azure|Tableau|Statistics|Machine Learning|Microsoft Fabric|Airflow,7,,synthetic
+61a5b2eb19cc,Senior BI Analyst,Accenture Finland,2024-05-19,Remote,Senior,Python|Excel|Azure|Tableau|Spark,5,,synthetic
+4c03937df34e,Lead Data Analyst,Nordea,2025-07-05,Vantaa,Senior,SQL|Python|Power BI|Tableau|A/B Testing|Databricks|Microsoft Fabric,7,,synthetic
+71fdacc35556,Principal Analytics Engineer,Siili Solutions,2025-08-10,Espoo,Senior,SQL|Python|Azure|A/B Testing|Databricks|Snowflake,6,,synthetic
+a468ea7aafa6,BI Analyst,Tietoevry,2026-03-27,Vantaa,Mid,SQL|Python|Excel|Azure|Microsoft Fabric|GCP,6,,synthetic
+b8fff8678cd8,Data Analyst – Power BI,Stora Enso,2025-04-07,Tampere,Mid,SQL|Python|Power BI|Azure|Statistics,5,,synthetic
+a5edb19e55ba,Senior Analytics Engineer,Solita,2025-09-25,Turku,Senior,SQL|Python|Excel|Azure|Tableau|Machine Learning,6,,synthetic
+0aad6a8a0a6d,Senior Analytics Engineer,Administer,2024-08-12,Helsinki,Senior,SQL|Python|Power BI|Excel|Spark|Looker,6,,synthetic
+40c7fd4b6a8f,Data Analyst,KPMG Finland,2026-03-20,Helsinki,Mid,Python|Power BI|Excel|DAX|Microsoft Fabric,5,,synthetic
+be531d4cf7c2,BI Analyst,KPMG Finland,2025-12-20,Helsinki,Mid,SQL|Python|Excel|Azure|Tableau,5,,synthetic
+a58e844f738e,Data Analyst – Power BI,Kesko,2024-08-08,Helsinki,Mid,SQL|Python|Power BI|Excel|Azure|A/B Testing|DBT|Databricks|Microsoft Fabric|Airflow|Looker,11,,synthetic
+f10512f12fa0,Business Intelligence Analyst,Administer,2024-05-17,Remote,Mid,SQL|Python|Power BI|Azure|DBT|Snowflake,6,,synthetic
+42721375c25e,BI Analyst,Neste,2026-03-27,Tampere,Mid,SQL|Python|Power BI|Excel|Tableau|Machine Learning|Databricks|Snowflake|Airflow|SSRS,10,,synthetic
+c5be911b49a6,Junior BI Analyst,DNA Finland,2025-11-06,Espoo,Junior,SQL|Python|Azure|Spark|DBT,5,,synthetic
+fb549270d45d,Business Intelligence Analyst,Tietoevry,2025-03-27,Helsinki,Mid,SQL|Python|Power BI|Excel|Machine Learning|A/B Testing|Qlik,7,,synthetic
+9bf9c057e325,Head of Analytics,S-Group,2024-11-21,Oulu,Senior,SQL|Python|Azure|Machine Learning|A/B Testing|Snowflake|DAX,7,,synthetic
+3fca3a56cf70,Analytics Engineer,Gofore,2024-03-13,Tampere,Mid,SQL|Python|Excel,3,,synthetic
+c76e581629e7,Senior Analytics Engineer,OP Financial Group,2026-01-11,Helsinki,Senior,SQL|Python|Azure|Statistics,4,,synthetic
+03aabc664d06,Business Intelligence Analyst,Kesko,2025-01-01,Espoo,Mid,SQL|Power BI|Excel|Azure|Tableau|Machine Learning|A/B Testing|DAX,8,,synthetic
+412d7b6e34e9,Data Analyst,Gofore,2025-05-27,Turku,Mid,SQL|Python|Power BI|Tableau|Statistics|A/B Testing|Spark,7,,synthetic
+aa9849dc0bda,BI Analyst,Solita,2024-04-17,Espoo,Mid,Python|Power BI|Excel|Tableau|Microsoft Fabric|AWS,6,,synthetic
+9fcd4bd7a2bc,BI Analyst,Tietoevry,2024-09-15,Helsinki,Mid,SQL|Python|Tableau|Machine Learning|DBT|Airflow|GCP|SSRS,8,,synthetic
+5a80d5922086,Lead Data Analyst,KPMG Finland,2026-03-17,Turku,Senior,SQL|Python|Power BI|Excel|Tableau|Microsoft Fabric|Airflow,7,,synthetic
+92bb31eb90d2,Senior BI Analyst,OP Financial Group,2025-05-05,Espoo,Senior,SQL|Python|Power BI|A/B Testing|Spark|Snowflake|Microsoft Fabric|R|Superset,9,,synthetic
+2d0040b011fd,Senior Analytics Engineer,Tietoevry,2026-03-02,Jyväskylä,Senior,SQL|Python|Power BI|Excel|Azure|DBT,6,,synthetic
+b79ebdd63567,Lead Data Analyst,Siili Solutions,2025-06-23,Tampere,Senior,SQL|Power BI|Azure|DBT|DAX,5,,synthetic
+5c86d7b4e54c,Data Analyst,Nordea,2025-09-06,Helsinki,Mid,SQL|Python|Power BI|Azure|AWS,5,,synthetic
+a7f2f8d251e8,Junior Business Analyst,Elisa,2024-12-20,Jyväskylä,Junior,SQL|Python|Excel|Azure|Tableau|Machine Learning|Spark,7,,synthetic
+90a2a50e4f43,Data Analyst (Entry Level),S-Group,2024-01-10,Helsinki,Junior,SQL|Python|Power BI|Excel|Tableau|DBT|Databricks,7,,synthetic
+df99da3031d9,Product Analyst,Accenture Finland,2024-06-12,Helsinki,Mid,SQL|Python|Power BI|Tableau|Machine Learning,5,,synthetic
+69802856f50c,Business Intelligence Analyst,Metso,2025-04-11,Helsinki,Mid,SQL|Tableau|Machine Learning|DBT|Airflow,5,,synthetic
+5ae7594ca8fb,Senior Analytics Engineer,Capgemini Finland,2024-05-31,Helsinki,Senior,SQL|Python|Power BI|Excel|Azure|Tableau|Machine Learning|Looker,8,,synthetic
+07d7943d4353,Data Analyst (Entry Level),Solita,2025-11-20,Turku,Junior,SQL|Python|Power BI|Excel|Snowflake|R,6,,synthetic
+53cfbc7d6741,Junior BI Analyst,Softwave,2026-01-22,Tampere,Junior,SQL|Python|Power BI|Excel|Azure|Tableau|Machine Learning|A/B Testing|DBT,9,,synthetic
+510f3eac9982,Senior Data Analyst,Fortum,2024-11-20,Remote,Senior,SQL|Python|Power BI|Statistics,4,,synthetic
+ce3d2811f923,Junior Data Analyst,Accenture Finland,2024-01-13,Remote,Junior,SQL|Python|A/B Testing|DBT,4,,synthetic
+dd397f2aa1b5,Junior Data Analyst,Reaktor,2025-11-24,Helsinki,Junior,SQL|Python|Power BI|Excel|Tableau|Snowflake|Microsoft Fabric,7,,synthetic
+f0f5cf05e8e8,Junior Business Analyst,S-Group,2024-11-16,Tampere,Junior,Python|Excel|Tableau,3,,synthetic
+d18e5abea0a1,Data Analyst – Power BI,Solita,2024-07-29,Tampere,Mid,SQL|Python|Power BI|Excel|Machine Learning|A/B Testing|Databricks|DAX,8,,synthetic
+2ff599147d59,Senior Analytics Engineer,Tietoevry,2024-06-28,Espoo,Senior,SQL|Python|Power BI|Statistics|Machine Learning|A/B Testing|Looker Studio,7,,synthetic
+0216ab5dfd76,Business Intelligence Analyst,Tietoevry,2024-04-26,Vantaa,Mid,SQL|Python|Power BI|Excel|Azure|Statistics|A/B Testing|Databricks,8,,synthetic
+5998678b3790,SQL Analyst,CGI Finland,2024-04-16,Remote,Mid,SQL|Python|Power BI|Excel|Tableau,5,,synthetic
+15713dd66ca6,Junior Data Analyst,Metso,2024-09-22,Espoo,Junior,SQL|Python|Excel|Machine Learning|A/B Testing|Databricks|DAX,7,,synthetic
+2fe1b5aa074b,SQL Analyst,Tietoevry,2024-03-19,Helsinki,Mid,SQL|Python|Power BI|Airflow,4,,synthetic
+30d981d74867,Business Intelligence Analyst,Neste,2025-01-12,Helsinki,Mid,SQL|Power BI|Excel|Azure|Airflow,5,,synthetic
+543f900408c2,Lead Data Analyst,Reaktor,2025-10-03,Tampere,Senior,SQL|Power BI|Excel|Tableau|Statistics|Spark,6,,synthetic
+121e4c379386,Senior BI Analyst,Finnair,2025-01-09,Espoo,Senior,SQL|Python|Excel|Azure|Machine Learning|Airflow,6,,synthetic
+117580f266fe,Senior BI Analyst,Nordea,2025-06-13,Jyväskylä,Senior,SQL|Python|Azure,3,,synthetic
+dc54d87da121,Data Analyst (Entry Level),Solita,2025-02-17,Tampere,Junior,SQL|Python|Power BI|Excel|Azure|Databricks|Airflow,7,,synthetic
+693b433d0527,Business Intelligence Analyst,Neste,2024-09-11,Espoo,Mid,SQL|Python|Power BI|Excel|R|AWS,6,,synthetic
+d08ff029395b,BI Analyst,Gofore,2026-04-24,Other Finland,Mid,SQL|Python|Excel|Azure|Statistics|DBT|R,7,,synthetic
+4721338be0ca,Senior BI Analyst,OP Financial Group,2024-04-14,Vantaa,Senior,SQL|Python|Power BI|Excel|Azure|Statistics|DBT|Airflow|R,9,,synthetic
+052f1d15db1a,Business Intelligence Analyst,Stora Enso,2025-09-01,Espoo,Mid,Python|Power BI|Excel|Microsoft Fabric|Airflow,5,,synthetic
+b63507e9bd62,Senior Analytics Engineer,Fortum,2024-03-02,Vantaa,Senior,SQL|Excel|Azure|Tableau|A/B Testing|Databricks|Looker Studio,7,,synthetic
+fb72bbf1d30b,Business Intelligence Analyst,Vincit,2025-04-28,Espoo,Mid,SQL|Python|Statistics|Snowflake|Microsoft Fabric,5,,synthetic
+891dd7801e8d,Product Analyst,Wolt,2024-02-24,Remote,Mid,SQL|Python|Excel|Statistics|Power Query,5,,synthetic
+0db9aeb3dd04,Junior BI Analyst,Tietoevry,2024-07-14,Helsinki,Junior,SQL|Python|Power BI|Spark|Looker Studio,5,,synthetic
+1a7cf5ce7425,Business Intelligence Analyst,Wolt,2026-01-01,Jyväskylä,Mid,Python|Power BI|Machine Learning,3,,synthetic
+d3ca650b5fa9,Junior Data Analyst,Digia,2024-12-16,Espoo,Junior,SQL|Python|Power BI|Excel|DAX|Airflow|GCP,7,,synthetic
+cb7f66a59f3a,Senior Data Analyst,Tietoevry,2025-06-02,Helsinki,Senior,SQL|Power BI|Azure|Machine Learning|Spark|AWS,6,,synthetic
+ceab47b6c726,BI Analyst,Administer,2026-03-30,Remote,Mid,SQL|Power BI|Excel|Spark|DBT|Looker,6,,synthetic
+eb245fc16527,Junior Data Analyst,Wolt,2025-03-22,Helsinki,Junior,SQL|Python|Power BI|Excel|Azure|A/B Testing|Snowflake|Qlik,8,,synthetic
+af2b42ee4c41,Junior Data Analyst,Neste,2024-01-16,Remote,Junior,SQL|Python|Excel|Azure|Tableau|DBT|Databricks|Snowflake,8,,synthetic
+41414ebb6b79,Product Analyst,Administer,2025-01-06,Helsinki,Mid,SQL|Power BI|Excel|Azure|Tableau|Statistics|Machine Learning|R,8,,synthetic
+6772241cb307,SQL Analyst,Digia,2026-04-17,Jyväskylä,Mid,Statistics|Machine Learning|DBT|Databricks|Snowflake,5,,synthetic
+5c6ab2d988aa,Data Analyst – Power BI,Capgemini Finland,2025-03-23,Helsinki,Mid,SQL|Python|Microsoft Fabric|Power Query,4,,synthetic
+66631182614b,Senior BI Analyst,Kone,2025-10-08,Remote,Senior,SQL|Python|Excel|Statistics|DAX|GCP|SSRS,7,,synthetic
+3253541f5151,Principal Analytics Engineer,Stora Enso,2026-03-23,Helsinki,Senior,Python|Power BI|Statistics|A/B Testing|Spark,5,,synthetic
+28d22944a5b6,Junior BI Analyst,Fortum,2024-10-02,Oulu,Junior,SQL|Excel|Azure|Tableau|Statistics|Machine Learning|A/B Testing|Databricks|Snowflake|Airflow,10,,synthetic
+ece69956389f,Analytics Engineer,Tietoevry,2025-11-01,Espoo,Mid,SQL|Python|Power BI|Excel|Azure|Machine Learning|A/B Testing|Looker,8,,synthetic
+ba261ea1e3c2,Product Analyst,Oura,2024-04-23,Helsinki,Mid,SQL|Python|Excel|Azure|Statistics|A/B Testing|Snowflake|DAX,8,,synthetic
+c2047b4fbed4,Junior Data Analyst,Softwave,2025-09-29,Jyväskylä,Junior,SQL|Python|Excel|Azure|Tableau|Databricks|Snowflake|DAX,8,,synthetic
+385238735fcf,Senior Analytics Engineer,Varma,2025-07-20,Helsinki,Senior,SQL|Python|Azure|Databricks|DAX,5,,synthetic
+466b56f7d4f7,Business Intelligence Analyst,Tietoevry,2025-07-05,Remote,Mid,SQL|Python|Power BI|Excel|Statistics|Microsoft Fabric|R|GCP,8,,synthetic
+9ac2496e9c82,BI Analyst,Wolt,2025-01-03,Helsinki,Mid,Power BI|Statistics|Machine Learning,3,,synthetic
+c36e49491c9f,Senior BI Analyst,Gofore,2025-09-23,Espoo,Senior,Python|Azure|Tableau|Databricks|DAX|Airflow,6,,synthetic
+f7af01b266bf,Lead Data Analyst,Digia,2026-02-08,Helsinki,Senior,SQL|Excel|Machine Learning|A/B Testing|Snowflake|DAX|Looker,7,,synthetic
+16908513cb41,Product Analyst,Softwave,2024-09-23,Helsinki,Mid,SQL|Python|Power BI|Azure|Databricks|Snowflake,6,,synthetic
+c8bc61058417,Data Analyst,Finnair,2026-04-04,Helsinki,Mid,Python|Power BI|Azure|Databricks|Microsoft Fabric,5,,synthetic
+af2fe6b3bba2,Analytics Engineer,Digia,2026-04-10,Remote,Mid,SQL|Python|Azure|Statistics|Spark|DAX,6,,synthetic
+4a6e27a5572f,Data Analyst – Power BI,Elisa,2024-01-17,Jyväskylä,Mid,Excel|Machine Learning|Spark|Airflow,4,,synthetic
+09f8a279fdb5,SQL Analyst,Accenture Finland,2025-07-20,Tampere,Mid,SQL|Python|Excel|Tableau|Databricks|Microsoft Fabric,6,,synthetic
+14495ee79eff,Product Analyst,Neste,2024-08-22,Helsinki,Mid,Excel|Azure|Tableau|Statistics|DBT|Databricks|Snowflake,7,,synthetic
+cfd8cc592164,Analytics Engineer,CGI Finland,2026-04-14,Tampere,Mid,SQL|Python|Power BI|Excel|Statistics|A/B Testing|Power Query|R|GCP,9,,synthetic
+22bc4e16ad6f,Junior Business Analyst,Solita,2026-04-28,Espoo,Junior,SQL|Python|Power BI|Excel|Azure|Statistics|Machine Learning|A/B Testing|Spark|Snowflake|Power Query|Qlik,12,,synthetic
+73ffc81d2364,BI Analyst,Capgemini Finland,2024-04-27,Remote,Mid,SQL|Python|Power BI|Tableau|A/B Testing|DAX,6,,synthetic
+75cb41aa95d1,SQL Analyst,Fortum,2025-12-01,Turku,Mid,SQL|Python|Excel|Azure|Tableau|Statistics|Machine Learning|A/B Testing|DAX|Airflow,10,,synthetic
+7d87da684754,Junior BI Analyst,Finnair,2024-08-08,Espoo,Junior,Python|Excel|DAX,3,,synthetic
+415102983ec0,Data Analyst – Power BI,KPMG Finland,2024-05-31,Vantaa,Mid,SQL|Python|Excel|Tableau|A/B Testing,5,,synthetic
+256f809030ef,Data Analyst,Wolt,2024-07-13,Vantaa,Mid,SQL|Power BI|Azure|Tableau|Machine Learning|A/B Testing|DAX|Superset,8,,synthetic
+58cf5830525d,Data Analyst (Entry Level),Stora Enso,2024-08-19,Espoo,Junior,Power BI|Excel|Snowflake,3,,synthetic
+31a6a7bd1fc0,SQL Analyst,Fortum,2025-02-25,Oulu,Mid,SQL|Power BI|Azure|A/B Testing|AWS,5,,synthetic
+251b0ee406d2,SQL Analyst,Accenture Finland,2025-08-07,Helsinki,Mid,SQL|Tableau|Machine Learning|DBT,4,,synthetic
+4cc0f74662fb,Principal Analytics Engineer,Kone,2025-11-21,Helsinki,Senior,SQL|Python|Azure|Tableau|Machine Learning|A/B Testing|Spark|Snowflake,8,,synthetic
+c619bed41f69,Lead Data Analyst,Metso,2026-04-17,Helsinki,Senior,Excel|Azure|Statistics|DBT|Superset,5,,synthetic
+5c6451dc904c,Data Analyst,Kesko,2026-03-02,Helsinki,Mid,SQL|Python|Machine Learning|Looker Studio,4,,synthetic
+e6e16f0eb59b,Data Analyst – Power BI,VR Group,2025-12-15,Tampere,Mid,Python|Power BI|Excel|A/B Testing|DAX|AWS,6,,synthetic
+b086ecdf521d,Junior Business Analyst,Stora Enso,2025-10-18,Jyväskylä,Junior,SQL|Python|Power BI|Excel|Azure|DBT|Databricks|DAX,8,,synthetic
+349d1b7c30a7,Business Intelligence Analyst,Tietoevry,2025-01-11,Helsinki,Mid,SQL|Python|Power BI|Tableau|Statistics|Machine Learning|Airflow|Looker Studio,8,,synthetic
+9a26f8e51834,Senior BI Analyst,Solita,2024-02-20,Espoo,Senior,SQL|Python|Statistics|Machine Learning|Airflow,5,,synthetic
+b84da7753c33,Data Analyst – Power BI,KPMG Finland,2026-03-25,Remote,Mid,Python|Power BI|Excel|Azure|A/B Testing|Spark|Looker,7,,synthetic
+94e7187c6c78,Head of Analytics,Nordea,2025-10-25,Vantaa,Senior,Python|Power BI|Tableau|Looker Studio|Superset,5,,synthetic
+2b2539cf2f59,Data Analyst,Siili Solutions,2025-08-07,Turku,Mid,SQL|Python|Power BI|Excel|Statistics|Machine Learning|A/B Testing|Spark|Looker|GCP|Superset,11,,synthetic
+0faac84e4948,Junior Business Analyst,Siili Solutions,2025-10-05,Helsinki,Junior,SQL|Python|Excel|Azure|Airflow,5,,synthetic
+3acb466a9050,BI Analyst,Elisa,2024-06-17,Helsinki,Mid,SQL|Python|Power BI|Azure|Tableau|A/B Testing|Databricks|Snowflake,8,,synthetic
+c4d3606d7fd1,Product Analyst,Capgemini Finland,2025-05-27,Helsinki,Mid,SQL|Python|Power BI|Azure|Tableau|Statistics|R,7,,synthetic
+8d5c25450ce4,BI Analyst,S-Group,2024-02-12,Remote,Mid,SQL|Power BI|Excel|Tableau|Microsoft Fabric,5,,synthetic
+347fd9d04fe0,SQL Analyst,Siili Solutions,2024-12-24,Turku,Mid,Power BI|Excel|Tableau|A/B Testing|Databricks,5,,synthetic
+dd7f807ef8cb,Junior Data Analyst,Stora Enso,2025-12-05,Helsinki,Junior,SQL|Python|Power BI|Tableau|Machine Learning|Power Query|AWS,7,,synthetic
+1f8b3b4419ce,Data Analyst – Power BI,Kesko,2025-11-07,Turku,Mid,SQL|Excel|Machine Learning|DBT,4,,synthetic
+8a36995ac5ac,Product Analyst,Digia,2025-07-23,Remote,Mid,SQL|Python|Power BI|Excel|Azure|Statistics|Snowflake,7,,synthetic
+62a069d4d1af,SQL Analyst,Reaktor,2024-07-17,Turku,Mid,SQL|Python|Power BI|Tableau|Statistics|Spark|Looker,7,,synthetic
+0518a2ec1fe3,Senior BI Analyst,Siili Solutions,2024-02-18,Espoo,Senior,Python|Excel|Azure|Spark|Snowflake|Power Query|Looker,7,,synthetic
+1200db1f894f,Principal Analytics Engineer,Siili Solutions,2025-09-13,Helsinki,Senior,SQL|Python|Power BI|Azure|DBT|Airflow|Looker,7,,synthetic
+a704c515fe9d,Data Analyst,KPMG Finland,2025-01-20,Espoo,Mid,SQL|Machine Learning|Spark|Databricks|Power Query,5,,synthetic
+a2dc41d23dd3,Product Analyst,Varma,2025-08-22,Vantaa,Mid,SQL|Python|Power BI|Machine Learning,4,,synthetic
+6951274cc174,Junior Business Analyst,Neste,2024-02-25,Helsinki,Junior,SQL|Python|Power BI|Azure|Spark|Databricks|Qlik,7,,synthetic
+861efa02d283,BI Analyst,Wolt,2025-04-24,Tampere,Mid,SQL|Python|Excel|Azure|Tableau|Machine Learning|Power Query,7,,synthetic
+9bac4562748f,Head of Analytics,S-Group,2025-12-31,Espoo,Senior,SQL|Python|Azure|A/B Testing,4,,synthetic
+26fced24ad2d,SQL Analyst,Metso,2025-10-11,Vantaa,Mid,SQL|Power BI|Excel|Azure|DBT|DAX|Microsoft Fabric|Airflow|Power Query,9,,synthetic
+630a4d7f56ea,Data Analyst,Capgemini Finland,2025-09-06,Tampere,Mid,SQL|Python|Power BI|Excel|DBT|DAX,6,,synthetic
+f059a11659ff,Graduate Data Analyst,Kone,2025-04-03,Espoo,Junior,SQL|Python|Power BI|Azure|Tableau|Snowflake|Power Query|GCP,8,,synthetic
+305492413518,Data Analyst,KPMG Finland,2024-09-24,Jyväskylä,Mid,SQL|Python|Power BI|Excel|Azure|Statistics|DBT|Microsoft Fabric|Qlik,9,,synthetic
+d3b8992e0ac6,Senior Data Analyst,Tietoevry,2024-03-28,Vantaa,Senior,Python|Power BI|Excel|Tableau|Statistics|Machine Learning|Spark|Looker,8,,synthetic
+b95c972c3c1d,Data Analyst – Power BI,KPMG Finland,2024-04-26,Espoo,Mid,SQL|Power BI|Excel|Statistics,4,,synthetic
+e235c58b40c8,Business Intelligence Analyst,Gofore,2025-10-31,Helsinki,Mid,SQL|Python|Power BI|Excel|Azure|Spark|Microsoft Fabric|R,8,,synthetic
+4ffda96a5675,Analytics Engineer,Siili Solutions,2024-02-28,Espoo,Mid,SQL|Power BI|Azure|Statistics|Snowflake,5,,synthetic
+c7ae05952d36,Analytics Engineer,Solita,2025-05-27,Helsinki,Mid,Python|Power BI|Excel|Azure|Statistics|Machine Learning|Microsoft Fabric,7,,synthetic
+cd74e7c2f781,Data Analyst – Power BI,Digia,2024-02-13,Oulu,Mid,SQL|Python|Tableau|Machine Learning|DAX,5,,synthetic
+36fa4eee2391,Head of Analytics,Gofore,2025-10-24,Espoo,Senior,SQL|Power BI|Excel|Tableau|Spark|DBT|Qlik,7,,synthetic
+41ffca7cfc85,Senior Data Analyst,Tietoevry,2024-04-15,Espoo,Senior,SQL|Power BI|Machine Learning|A/B Testing|Spark,5,,synthetic
+f735e87756ca,Business Intelligence Analyst,S-Group,2026-04-29,Remote,Mid,SQL|Python|Power BI|Azure|Tableau|Databricks|Power Query|R|Looker Studio,9,,synthetic
+9c6af02a5390,Analytics Engineer,Kone,2024-04-06,Oulu,Mid,SQL|Python|Power BI|Excel|Spark|Microsoft Fabric|Looker,7,,synthetic
+7f008bd11d14,Data Analyst – Power BI,Solita,2025-02-28,Vantaa,Mid,SQL|Python|Power BI|Azure|Tableau,5,,synthetic
+977ca2ff648c,Product Analyst,Tietoevry,2025-07-19,Espoo,Mid,Power BI|Excel|Azure|Machine Learning|Databricks,5,,synthetic
+e8af1cd0c12a,BI Analyst,Tietoevry,2024-10-19,Remote,Mid,SQL|Power BI|Spark|DBT|Airflow,5,,synthetic
+ede50f60d6ba,Senior BI Analyst,Neste,2025-12-20,Espoo,Senior,SQL|Python|Statistics|Machine Learning|Snowflake|Power Query|Superset,7,,synthetic
+4f64b5018bd0,Lead Data Analyst,Reaktor,2025-12-21,Helsinki,Senior,Python|Power BI|Excel|Azure|Statistics|Spark|Databricks,7,,synthetic
+5d3bd71f3337,Data Analyst – Power BI,Accenture Finland,2024-12-10,Remote,Mid,Power BI|Azure|Databricks|R,4,,synthetic
+611cdea9da7a,Senior Analytics Engineer,Tietoevry,2025-10-24,Jyväskylä,Senior,SQL|Power BI|Tableau|Spark|Databricks|Microsoft Fabric|Looker Studio,7,,synthetic
+8ffeb879b509,Junior Business Analyst,Gofore,2024-02-28,Espoo,Junior,SQL|Azure|DAX,3,,synthetic
+97bc3f1a036a,SQL Analyst,Tietoevry,2025-12-17,Espoo,Mid,SQL|Power BI|Excel|Azure|Tableau|DAX|Airflow|Looker|Superset,9,,synthetic
+14e40df49b5e,Lead Data Analyst,Tietoevry,2025-12-06,Jyväskylä,Senior,Python|Power BI|Excel|Azure|Machine Learning|R,6,,synthetic
+5e64b035c593,SQL Analyst,Capgemini Finland,2024-11-28,Remote,Mid,SQL|Python|Power BI|Excel|Tableau|Power Query|Qlik,7,,synthetic
+d38f1402f567,Junior Business Analyst,Gofore,2025-08-13,Remote,Junior,SQL|Python|Power BI|Azure|Spark|Databricks|Looker|Qlik,8,,synthetic
+2f3d6315dbec,Junior BI Analyst,Oura,2025-02-26,Espoo,Junior,SQL|Python|Power BI|Excel|Azure|Spark,6,,synthetic
+2c071f6584dd,Senior Analytics Engineer,VR Group,2025-10-22,Vantaa,Senior,SQL|Python|Power BI|Excel|Azure|Machine Learning|DBT|Looker,8,,synthetic
+1ad66bf24646,BI Analyst,Wolt,2026-03-01,Oulu,Mid,Power BI|Excel|Azure|Statistics|Snowflake|Microsoft Fabric|AWS,7,,synthetic
+fc446452bb36,Lead Data Analyst,Tietoevry,2025-05-16,Turku,Senior,SQL|Python|Machine Learning|Airflow,4,,synthetic
+c9c965fe4e0c,SQL Analyst,Elisa,2024-02-11,Tampere,Mid,SQL|Python|Power BI|Excel|Azure|Spark|Looker,7,,synthetic
+d38a9317cffa,Senior BI Analyst,Elisa,2024-08-15,Helsinki,Senior,SQL|Power BI|Excel|DBT|Microsoft Fabric|Looker,6,,synthetic
+b28d8e186585,Analytics Engineer,Neste,2024-09-09,Helsinki,Mid,Python|Power BI|Excel|A/B Testing|Airflow,5,,synthetic
+790b12e46491,SQL Analyst,Varma,2024-02-23,Espoo,Mid,SQL|Python|Power BI|Excel|Snowflake|DAX|Microsoft Fabric|Power Query,8,,synthetic
+46057dd2e119,Data Analyst,Capgemini Finland,2025-04-08,Helsinki,Mid,SQL|Python|Tableau|Machine Learning,4,,synthetic
+f0831ec12bf7,Senior Data Analyst,Solita,2025-04-18,Helsinki,Senior,SQL|Python|Power BI|Tableau|Spark|Looker,6,,synthetic
+5ddefe7be312,Principal Analytics Engineer,Softwave,2025-02-23,Helsinki,Senior,SQL|Power BI|Statistics|Machine Learning|Spark|Databricks|R,7,,synthetic
+9d984848d3ac,Graduate Data Analyst,Capgemini Finland,2026-01-12,Other Finland,Junior,SQL|Power BI|Spark|Power Query,4,,synthetic
+fc640da846b5,Senior BI Analyst,DNA Finland,2025-10-14,Other Finland,Senior,Excel|Azure|Tableau|Statistics|Machine Learning|A/B Testing,6,,synthetic
+a628f142cd54,Analytics Engineer,Elisa,2025-11-15,Tampere,Mid,SQL|Python|Tableau|Spark|Power Query,5,,synthetic
+a34f1e4b98c1,Senior Data Analyst,DNA Finland,2024-08-08,Helsinki,Senior,SQL|Python|Azure|Tableau|Statistics|DBT,6,,synthetic
+af9127af3a78,SQL Analyst,Wolt,2024-11-20,Turku,Mid,SQL|Excel|Azure|Tableau|Statistics|Machine Learning|Airflow|Looker Studio,8,,synthetic
+14b13152abb7,Data Analyst,Gofore,2024-07-23,Other Finland,Mid,SQL|Python|Power BI|Tableau|Machine Learning,5,,synthetic
+ee58314d3af1,Junior Data Analyst,Fortum,2025-10-17,Espoo,Junior,SQL|Excel|Statistics|DBT|Looker|AWS,6,,synthetic
+a036507eb1a5,Head of Analytics,Stora Enso,2025-05-03,Helsinki,Senior,SQL|Python|Excel|Azure|Statistics|DBT|R,7,,synthetic
+b20e98ae5056,Data Analyst,Capgemini Finland,2024-10-03,Helsinki,Mid,Python|Excel|Azure|Tableau|A/B Testing|Microsoft Fabric,6,,synthetic
+44954d3506ff,Senior Analytics Engineer,Fortum,2024-02-21,Espoo,Senior,SQL|Power BI|Statistics|Machine Learning,4,,synthetic
+bfe37b804ab0,Data Analyst (Entry Level),Solita,2024-05-28,Helsinki,Junior,SQL|Python|Excel|Azure|Tableau|Statistics|Machine Learning|A/B Testing|DBT|Qlik|Superset,11,,synthetic
+2a71e67e7086,Analytics Engineer,Stora Enso,2024-08-04,Turku,Mid,SQL|Python|Power BI|A/B Testing|Snowflake|DAX|Qlik,7,,synthetic
+19366a1d5b50,Product Analyst,Accenture Finland,2026-03-13,Helsinki,Mid,SQL|Power BI|Machine Learning|Snowflake,4,,synthetic
+bb8a3bfb1c19,Analytics Engineer,Siili Solutions,2024-08-30,Helsinki,Mid,SQL|Python|Excel|Azure|Machine Learning|DBT|Snowflake|Power Query,8,,synthetic
+e0e3edd98bbe,Junior BI Analyst,Siili Solutions,2024-05-09,Vantaa,Junior,SQL|Python|Airflow,3,,synthetic
+298acdd52e24,Head of Analytics,Varma,2026-03-09,Espoo,Senior,SQL|Tableau|A/B Testing|SSRS,4,,synthetic
+2d513ce3187b,Analytics Engineer,Vincit,2025-05-16,Remote,Mid,SQL|Power BI|Excel|Azure|A/B Testing|DAX|Microsoft Fabric|GCP,8,,synthetic
+c5ec99ebd1ab,Data Analyst – Power BI,Stora Enso,2024-02-21,Espoo,Mid,SQL|Python|Power BI|Excel|Azure|Tableau|Statistics|Machine Learning|Microsoft Fabric,9,,synthetic
+438bb57ba7ac,Product Analyst,OP Financial Group,2024-07-17,Helsinki,Mid,SQL|Power BI|Spark|Databricks|Snowflake,5,,synthetic
+f4f3deddf29d,Data Analyst,Elisa,2024-06-17,Oulu,Mid,SQL|Power BI|Azure|Spark|Snowflake|Looker|Superset,7,,synthetic
+f9e0426e4c27,Product Analyst,Siili Solutions,2024-06-05,Tampere,Mid,SQL|Power BI|Azure|Statistics|Machine Learning|DAX,6,,synthetic
+b64131355f58,Junior Data Analyst,Solita,2025-08-21,Espoo,Junior,SQL|Python|Power BI|Excel|Azure|Spark|DBT|DAX|Airflow,9,,synthetic
+8cdbc3b7773e,Data Analyst – Power BI,Kone,2025-10-07,Helsinki,Mid,Python|Power BI|Excel|Tableau|Statistics|Machine Learning|Spark|Microsoft Fabric,8,,synthetic
+3837eded11c5,Senior BI Analyst,Stora Enso,2024-06-18,Turku,Senior,SQL|Python|Power BI|Azure,4,,synthetic
+c1e117a962f4,Principal Analytics Engineer,Wolt,2025-08-12,Vantaa,Senior,Python|Power BI|Excel|A/B Testing|DAX|Microsoft Fabric,6,,synthetic
+ba68b9f17b90,Data Analyst – Power BI,Fortum,2025-03-29,Oulu,Mid,SQL|Power BI|Azure|Databricks,4,,synthetic
+f9d46fce0dc5,Analytics Engineer,Softwave,2024-09-21,Helsinki,Mid,SQL|Python|Power BI|Machine Learning|Looker Studio,5,,synthetic
+a3950d845aef,Senior Analytics Engineer,Stora Enso,2025-01-05,Espoo,Senior,SQL|Tableau|Databricks|Looker,4,,synthetic
+7c5c30aa88e3,Business Intelligence Analyst,Nordea,2024-06-15,Remote,Mid,SQL|Python|Power BI|Excel|Tableau,5,,synthetic
+91cfd3926460,Head of Analytics,CGI Finland,2025-11-30,Helsinki,Senior,SQL|Python|Tableau|Spark,4,,synthetic
+543aef497ab4,Data Analyst,Fortum,2025-03-29,Espoo,Mid,SQL|Power BI|Statistics|Machine Learning|Databricks|Snowflake|R,7,,synthetic
+04dfacbef406,Senior Data Analyst,Tietoevry,2025-05-26,Jyväskylä,Senior,Python|Tableau|Airflow|Superset,4,,synthetic
+6721ecb79bd0,Data Analyst – Power BI,OP Financial Group,2025-09-12,Oulu,Mid,SQL|Python|Power BI|Excel|DBT|Databricks|Microsoft Fabric|AWS,8,,synthetic
+6015ea11290c,Product Analyst,Wolt,2026-02-27,Helsinki,Mid,SQL|Power BI|Tableau,3,,synthetic
+26c98fc81a02,Junior Data Analyst,S-Group,2025-09-14,Other Finland,Junior,Power BI|R|AWS,3,,synthetic
+10ee1f0e48d3,Data Analyst (Entry Level),Solita,2025-01-30,Remote,Junior,Python|Power BI|Excel|Looker,4,,synthetic
+3a4a1453942d,Product Analyst,Gofore,2025-03-19,Espoo,Mid,Python|Power BI|Machine Learning|DAX|Looker,5,,synthetic
+267fe057e51d,Business Intelligence Analyst,Solita,2025-03-09,Helsinki,Mid,SQL|Tableau|Statistics|A/B Testing|Microsoft Fabric,5,,synthetic
+7b0422772714,Senior Analytics Engineer,Accenture Finland,2024-12-24,Remote,Senior,SQL|Python|Power BI|Excel|Azure|Statistics|Spark,7,,synthetic
+e03d3c548582,Senior Data Analyst,Nordea,2024-09-25,Tampere,Senior,Power BI|Azure|Machine Learning|Microsoft Fabric|AWS,5,,synthetic
+fd0c73b815b6,Data Analyst – Power BI,Wolt,2024-01-16,Vantaa,Mid,SQL|Power BI|Excel|A/B Testing,4,,synthetic
+e27c150d1b1e,Analytics Engineer,Gofore,2024-09-22,Helsinki,Mid,SQL|Power BI|Excel|Azure|DBT|Airflow|Superset,7,,synthetic
+be0a6211b6a2,Graduate Data Analyst,Elisa,2024-03-17,Helsinki,Junior,SQL|Python|Excel|Azure|Statistics|Machine Learning|Looker Studio,7,,synthetic
+d58ff163c674,Product Analyst,Elisa,2024-06-12,Helsinki,Mid,SQL|Python|Power BI|Excel|Azure|Tableau|Statistics|Spark|Airflow,9,,synthetic
+2206255fad59,Business Intelligence Analyst,Reaktor,2024-09-27,Tampere,Mid,SQL|Python|Power BI|Excel|Azure|Tableau|A/B Testing|Snowflake|DAX,9,,synthetic
+a2ea440c0705,Business Intelligence Analyst,Varma,2025-10-14,Espoo,Mid,Python|Excel|Machine Learning|Spark,4,,synthetic
+64d1d8e8c610,Data Analyst,Kesko,2025-01-13,Espoo,Mid,Azure|Statistics|Microsoft Fabric,3,,synthetic
+e905a25b37b2,Product Analyst,Futurice,2026-02-02,Espoo,Mid,Power BI|Excel|Machine Learning|A/B Testing,4,,synthetic
+f84c64b06341,Senior BI Analyst,Tietoevry,2024-08-11,Jyväskylä,Senior,SQL|Python|Azure|Qlik,4,,synthetic
+611726652646,Product Analyst,Accenture Finland,2024-01-06,Tampere,Mid,SQL|Python|Power BI|A/B Testing|DAX|AWS|Superset,7,,synthetic
+86ae025e04cc,Data Analyst (Entry Level),Finnair,2026-04-11,Remote,Junior,SQL|Python|Power BI|Azure|Tableau|A/B Testing,6,,synthetic
+90aeb388b055,Business Intelligence Analyst,Solita,2024-11-22,Espoo,Mid,SQL|Python|Excel|Databricks|Microsoft Fabric|Looker,6,,synthetic
+160872006b49,Senior Analytics Engineer,Solita,2024-08-04,Helsinki,Senior,SQL|Statistics,2,,synthetic
+3502e79e6e2a,Data Analyst,Siili Solutions,2025-05-31,Oulu,Mid,Python|Power BI|Azure|Databricks|Qlik,5,,synthetic
+eda563f41bf6,Data Analyst,Solita,2026-02-12,Turku,Mid,SQL|Python|Power BI|Excel|Azure|Statistics|Snowflake|DAX,8,,synthetic
+6427ce282019,Data Analyst (Entry Level),KPMG Finland,2025-02-14,Remote,Junior,SQL|Power BI|Statistics|Machine Learning|Spark|Microsoft Fabric|Power Query,7,,synthetic
+cf19662d40bc,Junior Business Analyst,Siili Solutions,2024-04-22,Helsinki,Junior,SQL|Python|Power BI|Excel|Azure|Spark|Databricks|DAX|Qlik|GCP,10,,synthetic
+cd0ce5be4f71,SQL Analyst,OP Financial Group,2024-04-03,Espoo,Mid,SQL|Python|Power BI|Excel|Azure|A/B Testing|Power Query,7,,synthetic
+b3cf79d759ee,SQL Analyst,S-Group,2025-06-14,Jyväskylä,Mid,SQL|Python|Power BI|A/B Testing|Microsoft Fabric,5,,synthetic
+7468c4d2e24c,Principal Analytics Engineer,Tietoevry,2025-08-02,Vantaa,Senior,SQL|Azure|Statistics|Machine Learning|Spark|Snowflake|Microsoft Fabric|AWS,8,,synthetic
+04b56e87cb01,Data Analyst,Capgemini Finland,2025-12-24,Oulu,Mid,SQL|Python|Excel|Azure|A/B Testing|Spark|Looker Studio,7,,synthetic
+4a9e6681897d,Data Analyst – Power BI,Solita,2025-04-12,Vantaa,Mid,SQL|Python|Statistics|Spark|Databricks|Looker,6,,synthetic
+7db391f88fa5,Data Analyst,VR Group,2024-07-09,Turku,Mid,SQL|Power BI|Excel|Airflow|Superset,5,,synthetic
+ab27247e8995,SQL Analyst,Reaktor,2026-01-20,Remote,Mid,Python|Statistics|Spark|DBT|Databricks|Airflow,6,,synthetic
+5a6bcaabea23,Principal Analytics Engineer,Accenture Finland,2025-12-28,Helsinki,Senior,SQL|Python|Power BI|Excel|Databricks,5,,synthetic
+d551cd876bca,Principal Analytics Engineer,Neste,2026-02-23,Espoo,Senior,SQL|Python|Power BI|Tableau|Statistics|Spark,6,,synthetic
+c831402412bd,Data Analyst (Entry Level),DNA Finland,2024-08-09,Other Finland,Junior,Excel|Tableau|DBT,3,,synthetic
+53b4d966860e,Analytics Engineer,OP Financial Group,2024-04-16,Helsinki,Mid,SQL|Python|Excel|Statistics|Spark|Snowflake|Power Query,7,,synthetic
+a0594c077c46,BI Analyst,Wolt,2026-04-30,Espoo,Mid,Python|Excel|Snowflake|DAX|Airflow|Qlik,6,,synthetic
+30dbdbd6d647,Business Intelligence Analyst,Tietoevry,2026-03-02,Turku,Mid,SQL|Python|Power BI|Azure|Tableau|Statistics|Power Query,7,,synthetic
+3ac6374a311f,Senior BI Analyst,KPMG Finland,2025-04-22,Tampere,Senior,SQL|Python|Power BI|Excel|Azure|Looker,6,,synthetic
+07e10ee6d7e4,Data Analyst – Power BI,Fortum,2026-02-13,Remote,Mid,Azure,1,,synthetic
+e27f1ad8335b,Junior BI Analyst,Gofore,2025-11-14,Other Finland,Junior,Power BI|Tableau,2,,synthetic
+f2edf29b56a5,Senior BI Analyst,S-Group,2024-01-23,Remote,Senior,SQL|Python|Power BI|Excel|Tableau|DBT|DAX,7,,synthetic
+4933c024b82d,Lead Data Analyst,KPMG Finland,2025-04-17,Remote,Senior,SQL|Python|Databricks,3,,synthetic
+62a51c13a099,Lead Data Analyst,Gofore,2024-12-11,Remote,Senior,SQL|Python|Power BI|Excel|Azure|Machine Learning|A/B Testing|DBT|Airflow|Looker Studio,10,,synthetic
+c7312492c928,Junior BI Analyst,Metso,2024-11-24,Espoo,Junior,SQL|Python|Power BI|Azure|Tableau,5,,synthetic
+666e3b71b3e1,Principal Analytics Engineer,Stora Enso,2026-03-07,Jyväskylä,Senior,SQL|Python|Power BI|Excel|Statistics,5,,synthetic
+d0fa68ac1b7b,Senior BI Analyst,Gofore,2025-02-18,Jyväskylä,Senior,SQL|Python|Azure,3,,synthetic
+998a5b150fb5,Lead Data Analyst,Solita,2024-12-22,Remote,Senior,SQL|Python|Statistics|A/B Testing|Spark,5,,synthetic
+fbd70f6b966d,Principal Analytics Engineer,Gofore,2024-03-18,Helsinki,Senior,SQL|Python|Machine Learning,3,,synthetic
+895e071e8dec,Head of Analytics,VR Group,2024-06-15,Other Finland,Senior,Power BI|Excel|DBT|Airflow|Looker Studio,5,,synthetic
+2f96d60976fc,Senior Analytics Engineer,DNA Finland,2024-10-07,Helsinki,Senior,SQL|Python|Power BI|Azure|Statistics|DBT|Databricks|Airflow|Power Query|GCP|AWS,11,,synthetic
+12a220032631,Senior BI Analyst,Capgemini Finland,2025-03-06,Remote,Senior,SQL|Power BI|Azure|Databricks|GCP,5,,synthetic
+863796dac81e,Data Analyst,Kesko,2025-11-07,Helsinki,Mid,SQL|Python|Power BI|Azure|Statistics|A/B Testing|Power Query|Qlik,8,,synthetic
+01d0030a24a6,Data Analyst – Power BI,Fortum,2024-06-02,Helsinki,Mid,SQL|Power BI|Azure|Statistics|Spark,5,,synthetic
+14047f001fae,Data Analyst – Power BI,Solita,2025-09-06,Vantaa,Mid,SQL|Python|Excel|A/B Testing|Spark,5,,synthetic
+72f4c5dd2eab,Junior Data Analyst,S-Group,2025-03-27,Vantaa,Junior,SQL|Python|Power BI|Azure|Tableau|Spark|DAX,7,,synthetic
+806e962f360f,Head of Analytics,Gofore,2025-12-15,Espoo,Senior,SQL|Power BI|Azure|Statistics,4,,synthetic
+41d536bab8a7,Analytics Engineer,Nordea,2025-04-16,Espoo,Mid,SQL|Excel|Tableau|Statistics|DAX,5,,synthetic
+f1868f0d3efd,Junior Data Analyst,Siili Solutions,2025-05-25,Remote,Junior,SQL|Python|Power BI|Excel|Azure|Spark|Snowflake|Looker,8,,synthetic
+b9bc84ebe3a5,Data Analyst,Tietoevry,2025-04-03,Helsinki,Mid,Azure|Databricks,2,,synthetic
+584de04dcf36,Junior Data Analyst,Kone,2025-06-17,Helsinki,Junior,SQL|Python|Excel|Statistics,4,,synthetic
+c78b12092a0d,Lead Data Analyst,OP Financial Group,2024-07-29,Oulu,Senior,Python|Power BI|Excel|Tableau|Spark|R|GCP,7,,synthetic
+e294ed279793,Lead Data Analyst,Wolt,2025-11-14,Helsinki,Senior,SQL|Python|Power BI|Machine Learning|Power Query|GCP,6,,synthetic
+9293e39d115f,Product Analyst,Elisa,2024-02-03,Jyväskylä,Mid,SQL|Power BI|Tableau|Statistics|Machine Learning|Microsoft Fabric,6,,synthetic
+7ed448f41afd,Senior BI Analyst,Digia,2025-06-14,Oulu,Senior,SQL|Python|Azure|Tableau,4,,synthetic
+ec12725100cf,Analytics Engineer,Nordea,2026-04-04,Turku,Mid,SQL|Power BI|Azure|Machine Learning,4,,synthetic
+a689c3b85728,Data Analyst,Stora Enso,2025-06-29,Helsinki,Mid,SQL|Python|Azure|Machine Learning|Spark|Databricks|DAX|Power Query,8,,synthetic
+14ea47bd2a0c,BI Analyst,Capgemini Finland,2024-08-31,Tampere,Mid,SQL|Python|Power BI|Excel|Azure|Tableau|Looker,7,,synthetic
+0743cc48b16a,BI Analyst,S-Group,2025-03-05,Remote,Mid,SQL|Python|Power BI|Excel|Statistics|Machine Learning|Databricks|Snowflake|Looker Studio,9,,synthetic
+7b95cbe36f3e,Product Analyst,KPMG Finland,2024-10-27,Vantaa,Mid,SQL|Python|Power BI|Azure|Tableau|Statistics|A/B Testing|SSRS,8,,synthetic
+7bf37ef01ebb,Analytics Engineer,KPMG Finland,2026-04-06,Espoo,Mid,SQL|Azure|Statistics|Machine Learning|A/B Testing|DBT|Databricks|GCP,8,,synthetic
+cb9111ee75f4,Product Analyst,Kone,2024-03-06,Tampere,Mid,SQL|Power BI|Excel|Azure|Tableau|Machine Learning|Spark|Databricks|Snowflake|DAX|Looker,11,,synthetic
+1c42e1b3aa74,BI Analyst,Digia,2025-01-03,Jyväskylä,Mid,SQL|Python|Power BI|Azure|Statistics|A/B Testing|DBT,7,,synthetic
+3c24020de62b,Senior Analytics Engineer,Solita,2025-11-07,Helsinki,Senior,SQL|Python|Power BI|Tableau|Statistics,5,,synthetic
+24ee65fadecb,Analytics Engineer,Metso,2024-03-22,Espoo,Mid,SQL|Python|Tableau|Machine Learning|Databricks,5,,synthetic
+0307a93ab0a4,Senior Analytics Engineer,Elisa,2024-11-24,Helsinki,Senior,SQL|Python|Power BI|Excel|Azure|Tableau|GCP,7,,synthetic
+ec1464ce5f6f,SQL Analyst,S-Group,2024-11-14,Tampere,Mid,Excel|Tableau|Databricks|Airflow,4,,synthetic
+1e1bb8f1e71c,Data Analyst,Capgemini Finland,2024-04-26,Vantaa,Mid,SQL|Python|Power BI|Azure|Tableau|Spark,6,,synthetic
+efa64aa562a5,BI Analyst,Siili Solutions,2024-08-20,Remote,Mid,SQL|Python|Power BI|Excel|Tableau|Airflow,6,,synthetic
+c5f037c9306c,BI Analyst,Tietoevry,2026-03-28,Helsinki,Mid,SQL|Power BI|Machine Learning|Spark,4,,synthetic
+d92ef73e24e2,Head of Analytics,Solita,2024-08-31,Remote,Senior,SQL|Python|Power BI|Tableau|DAX|Airflow,6,,synthetic
+1bd4fd5eb3b0,Data Analyst – Power BI,S-Group,2024-03-30,Helsinki,Mid,Azure|Tableau,2,,synthetic
+2dfe61ab22ec,Junior BI Analyst,Tietoevry,2025-02-19,Espoo,Junior,Power BI|Excel|Tableau|DBT|Looker Studio,5,,synthetic
+379430f6e65b,Data Analyst,Stora Enso,2024-02-01,Turku,Mid,Python|Azure|Airflow,3,,synthetic
+ebf68d156e02,Business Intelligence Analyst,Kone,2025-05-23,Jyväskylä,Mid,SQL|Azure|Statistics|Machine Learning|DBT,5,,synthetic
+50c511d3ec2f,Graduate Data Analyst,Solita,2024-10-09,Helsinki,Junior,SQL|Python|Power BI|Excel|Azure|Tableau|Snowflake|Looker,8,,synthetic
+e7a28eba9d93,SQL Analyst,Siili Solutions,2025-04-19,Helsinki,Mid,SQL|Python|Excel|Azure|R|Qlik,6,,synthetic
+5aceffa66cd1,BI Analyst,Siili Solutions,2024-11-05,Tampere,Mid,Power BI|Azure|Statistics|DBT|Databricks|Snowflake|DAX|Microsoft Fabric,8,,synthetic
+62a2ce974cd2,Principal Analytics Engineer,Metso,2026-03-11,Vantaa,Senior,SQL|Python|Power BI|Excel|DBT,5,,synthetic
+fd814f813358,Senior BI Analyst,Siili Solutions,2025-12-17,Tampere,Senior,SQL|Python|Excel|DAX|Superset,5,,synthetic
+2591e234c050,SQL Analyst,Oura,2024-10-22,Vantaa,Mid,SQL|Python,2,,synthetic
+6ee698daee9f,Analytics Engineer,Varma,2026-03-03,Espoo,Mid,SQL|Python|Excel|Azure|Tableau|Machine Learning|Spark|R,8,,synthetic
+531a3e052594,Product Analyst,Fortum,2025-11-14,Tampere,Mid,SQL|Azure|Tableau|Databricks|Snowflake|DAX,6,,synthetic
+ea964df41684,SQL Analyst,OP Financial Group,2024-09-25,Remote,Mid,SQL|Python|Excel|Azure|Statistics|Machine Learning|A/B Testing|R,8,,synthetic
+2264d480b8a0,Senior Data Analyst,Softwave,2024-03-08,Turku,Senior,Power BI|Excel|Statistics|DAX,4,,synthetic
+593d5f68f137,Data Analyst (Entry Level),Tietoevry,2025-06-08,Remote,Junior,SQL|Python|Tableau|DBT|Databricks|Snowflake,6,,synthetic
+8a620565d648,Head of Analytics,Capgemini Finland,2024-12-14,Remote,Senior,SQL|Python|Excel|Azure|Statistics|A/B Testing|Databricks|GCP,8,,synthetic
+a320ef91e79b,Business Intelligence Analyst,Gofore,2025-12-02,Vantaa,Mid,SQL|Power BI|Azure|Tableau,4,,synthetic
+cdbb4e0e8ae5,Junior Data Analyst,Stora Enso,2024-04-28,Tampere,Junior,SQL|Python|Excel|Azure|Statistics|Power Query|Qlik,7,,synthetic
+165a1bd9cac7,Data Analyst – Power BI,Softwave,2025-11-17,Jyväskylä,Mid,Python|Excel|Azure|Databricks,4,,synthetic
+eb1c65c52ff0,Junior Data Analyst,Kesko,2025-10-06,Vantaa,Junior,SQL|Python|Excel|Azure|Tableau|Snowflake,6,,synthetic
+d9f2d8b7fee9,Data Analyst – Power BI,Tietoevry,2025-03-09,Espoo,Mid,SQL|Power BI|Statistics|Spark|Microsoft Fabric,5,,synthetic
+21a3b963d4cf,Product Analyst,S-Group,2024-08-05,Helsinki,Mid,Python|Power BI|Looker,3,,synthetic
+c271bf5fc222,Data Analyst,Wolt,2024-12-10,Espoo,Mid,SQL|Python|Excel|Azure|Databricks|Snowflake|Airflow|Looker,8,,synthetic
+63056312cc0f,Senior Analytics Engineer,Elisa,2025-05-30,Espoo,Senior,SQL|Excel|Tableau|A/B Testing|Databricks|DAX,6,,synthetic
+7757622642f9,BI Analyst,KPMG Finland,2026-02-12,Remote,Mid,SQL|Python|Power BI|Excel|Azure|Machine Learning|Databricks,7,,synthetic
+2deacb02273a,SQL Analyst,Capgemini Finland,2025-01-23,Remote,Mid,SQL|Python|Power BI|Azure|Statistics|A/B Testing|Databricks,7,,synthetic
+23fed456868b,Business Intelligence Analyst,Capgemini Finland,2024-04-23,Vantaa,Mid,SQL|Python|Excel|Azure|Machine Learning|R,6,,synthetic
+62a7483ee3cc,Junior Data Analyst,Digia,2026-04-27,Espoo,Junior,Tableau|Machine Learning|Databricks|Looker Studio,4,,synthetic
+2c5ef89f44a8,Business Intelligence Analyst,OP Financial Group,2026-01-23,Vantaa,Mid,SQL|Python|Power BI|Tableau|Statistics|Snowflake,6,,synthetic
+149c4075b651,Head of Analytics,Fortum,2024-05-27,Helsinki,Senior,SQL|Python|Power BI|Excel|Azure|Statistics|Machine Learning|A/B Testing|DBT|Airflow,10,,synthetic
+ac942e99e9b3,Lead Data Analyst,Oura,2025-10-06,Other Finland,Senior,SQL|Python|Excel|Tableau|Power Query|AWS|Looker Studio,7,,synthetic
+a8fff892b1ca,BI Analyst,VR Group,2024-08-30,Tampere,Mid,SQL|Python|Power BI|Tableau,4,,synthetic
+fae45b3b19b5,Principal Analytics Engineer,Tietoevry,2024-11-12,Turku,Senior,Python|Power BI|Excel|Tableau|Statistics|A/B Testing|Spark|Databricks,8,,synthetic
+2935c4953a16,Analytics Engineer,Neste,2026-01-28,Vantaa,Mid,SQL|Python|Power BI|Looker,4,,synthetic
+f326cbdd4cd1,Business Intelligence Analyst,Tietoevry,2025-10-27,Tampere,Mid,SQL|Tableau|Statistics|Machine Learning|Airflow|Power Query,6,,synthetic
+afc712f75e01,Senior Data Analyst,Wolt,2026-02-26,Vantaa,Senior,Power BI|Excel|Azure|Tableau|A/B Testing|Spark|DBT|Looker Studio,8,,synthetic
+efd5d43fb155,SQL Analyst,Kone,2026-03-03,Helsinki,Mid,SQL|Python|Excel|Spark|GCP,5,,synthetic
+cde9af99c4bd,Analytics Engineer,Fortum,2025-12-01,Espoo,Mid,Python|Power BI|Excel|DBT|Microsoft Fabric,5,,synthetic
+c60b763b84ca,Principal Analytics Engineer,Nordea,2025-08-07,Remote,Senior,SQL|Python|Power BI|Excel|Tableau|Machine Learning|A/B Testing|Snowflake,8,,synthetic
+1c04e4c5ded2,Data Analyst,Solita,2025-03-16,Helsinki,Mid,SQL|Power BI|Excel|Azure|Tableau|Microsoft Fabric|Airflow|Power Query|Superset,9,,synthetic
+f75e4cb31fe2,Graduate Data Analyst,S-Group,2025-09-22,Turku,Junior,SQL,1,,synthetic
+fa2ba2393c6d,Product Analyst,Solita,2026-02-26,Helsinki,Mid,SQL|Python|Power BI|Spark,4,,synthetic
+893c81b0e3b8,Junior Business Analyst,Varma,2024-04-23,Remote,Junior,SQL|Python|Power BI|Azure|Machine Learning,5,,synthetic
+bf1373618dff,Data Analyst – Power BI,CGI Finland,2024-03-14,Espoo,Mid,SQL|Statistics|Snowflake,3,,synthetic
+23a9c157d317,SQL Analyst,Metso,2024-09-03,Tampere,Mid,SQL|Python|Power BI|Excel|Airflow|Looker,6,,synthetic
+d1cc9be2a87b,Business Intelligence Analyst,Siili Solutions,2024-07-25,Turku,Mid,SQL|Python|Power BI|Azure|Statistics,5,,synthetic
+b148e7802d42,Analytics Engineer,DNA Finland,2024-02-16,Espoo,Mid,SQL|Power BI|Tableau|Spark|DBT|Microsoft Fabric,6,,synthetic
+bac0b4a5af0d,Data Analyst,Siili Solutions,2024-10-24,Remote,Mid,SQL|Python|Power BI|Azure|Tableau|Machine Learning|DAX|GCP,8,,synthetic
+8979871f4e65,SQL Analyst,VR Group,2025-11-22,Helsinki,Mid,Python|Power BI|Statistics|Spark|DBT,5,,synthetic
+90a78398f7b9,Senior Data Analyst,Siili Solutions,2025-09-24,Helsinki,Senior,SQL|Power BI|Excel|DAX,4,,synthetic
+b4909087294b,Product Analyst,Softwave,2025-08-10,Espoo,Mid,SQL|Python|Power BI|Spark|Snowflake,5,,synthetic
+c890dea4421a,Analytics Engineer,Finnair,2025-03-09,Helsinki,Mid,Python|Statistics|Machine Learning|Databricks,4,,synthetic
+6e77701c4875,Data Analyst – Power BI,Accenture Finland,2025-03-12,Espoo,Mid,SQL|Excel|Statistics|Machine Learning|Spark|R|SSRS,7,,synthetic
+1d165d5d499d,Senior BI Analyst,Solita,2024-03-12,Vantaa,Senior,SQL|Python|Tableau|Machine Learning|Databricks|Snowflake|Qlik|GCP,8,,synthetic
+77ff012f9c32,Graduate Data Analyst,Futurice,2026-04-05,Helsinki,Junior,SQL|Power BI|Azure,3,,synthetic
+26ad82b828fc,Senior Analytics Engineer,Siili Solutions,2025-03-23,Espoo,Senior,SQL|Power BI|Excel|Tableau|Spark|Looker,6,,synthetic
+d434288f8fd6,Head of Analytics,Stora Enso,2025-12-12,Remote,Senior,SQL|Power BI|Excel|Azure|Statistics|DBT|GCP,7,,synthetic
+48767d118949,SQL Analyst,Gofore,2025-01-26,Helsinki,Mid,SQL|Python|Power BI|Excel|Azure|Tableau|Machine Learning|A/B Testing|Airflow,9,,synthetic
+4ff0210025b7,Product Analyst,Neste,2025-09-24,Espoo,Mid,SQL|Python|Power BI|Statistics|Machine Learning|Spark|Databricks,7,,synthetic
+a38dd9ab1ab4,Head of Analytics,Vincit,2024-05-03,Tampere,Senior,SQL|Python|Excel|Azure|Tableau|Microsoft Fabric,6,,synthetic
+ce9e41d6f515,Head of Analytics,Capgemini Finland,2024-04-07,Espoo,Senior,Python|Power BI|Machine Learning|Microsoft Fabric|Power Query,5,,synthetic
+0cd949ac95f0,Product Analyst,Solita,2026-01-02,Turku,Mid,SQL|Power BI|Azure|Statistics|Snowflake,5,,synthetic
+76babd528802,Data Analyst,Stora Enso,2024-01-12,Espoo,Mid,Python|Power BI|Excel|Azure|Tableau|A/B Testing|DBT|Snowflake|Power Query,9,,synthetic
+425ba3a5d1e3,Senior Analytics Engineer,Capgemini Finland,2025-03-16,Remote,Senior,SQL|Python|Excel|Azure|Tableau|Microsoft Fabric|AWS,7,,synthetic
+d65604a675ed,Junior BI Analyst,Kone,2025-02-27,Tampere,Junior,SQL|Python|Power BI|Azure|Tableau|Statistics|A/B Testing|AWS,8,,synthetic
+b6f8d86ed3eb,Graduate Data Analyst,Accenture Finland,2026-01-27,Helsinki,Junior,SQL|Power BI|Statistics|Microsoft Fabric,4,,synthetic
+a7f35438cf08,Business Intelligence Analyst,Varma,2026-03-19,Helsinki,Mid,SQL|Python|Power BI|Excel|Azure|Databricks,6,,synthetic
+494d48ea24d6,Head of Analytics,Accenture Finland,2024-02-17,Vantaa,Senior,SQL|Power BI|Excel|Statistics|Spark|Databricks|DAX|Superset,8,,synthetic
+3ccedaab0343,Lead Data Analyst,OP Financial Group,2026-04-23,Tampere,Senior,SQL|Python|Azure|Tableau|Statistics|Spark|Databricks|Snowflake,8,,synthetic
+6e5024ad9ec6,Junior Data Analyst,Varma,2024-05-22,Tampere,Junior,Python|Power BI|Excel|Tableau|Microsoft Fabric,5,,synthetic
+27646fbe011d,SQL Analyst,Tietoevry,2024-07-14,Jyväskylä,Mid,Power BI|Looker,2,,synthetic
+7827f6ebbd39,Senior Analytics Engineer,Accenture Finland,2024-08-21,Vantaa,Senior,SQL|Power BI|Excel|Statistics|Machine Learning|A/B Testing,6,,synthetic
+18ee3953d854,Senior Analytics Engineer,Varma,2025-07-12,Helsinki,Senior,SQL|Python|Power BI|Azure|Tableau|Statistics|Snowflake,7,,synthetic
+527b9a6097f5,Product Analyst,Gofore,2025-07-13,Espoo,Mid,SQL|Python|Power BI|Excel|Azure|Machine Learning|Snowflake,7,,synthetic
+374ce37e4879,Senior BI Analyst,Gofore,2025-04-26,Espoo,Senior,SQL|Python|Power BI|Azure|Statistics|A/B Testing|DBT|Microsoft Fabric,8,,synthetic
+ed433f176f4e,Business Intelligence Analyst,Kesko,2024-08-21,Remote,Mid,SQL|Python|Excel|A/B Testing|Snowflake|GCP|AWS,7,,synthetic
+9c5aad6cbf2e,Analytics Engineer,Siili Solutions,2025-03-31,Tampere,Mid,Python|Power BI|Azure|Statistics|Machine Learning|Microsoft Fabric|Qlik,7,,synthetic
+d9bde20ad09d,Junior Data Analyst,Gofore,2024-01-03,Remote,Junior,SQL|Python|Power BI|Excel|Azure|Tableau|Spark|DBT|DAX|Power Query,10,,synthetic
+68c68d3ca2a4,Analytics Engineer,Kesko,2024-05-07,Helsinki,Mid,SQL|Power BI|Statistics|Microsoft Fabric|R,5,,synthetic
+ebf5cade69b1,BI Analyst,Kone,2025-12-04,Tampere,Mid,SQL|Python|Power BI|Excel|DBT|Microsoft Fabric|Airflow,7,,synthetic
+492df59186d5,SQL Analyst,Siili Solutions,2024-10-19,Jyväskylä,Mid,SQL|Power BI|Azure|Statistics|R,5,,synthetic
+cf3fc56c13ec,Junior Data Analyst,Kone,2026-02-25,Helsinki,Junior,SQL|Python|Power BI|Excel|Statistics|AWS,6,,synthetic
+9d6365e4f3e2,Data Analyst,KPMG Finland,2024-05-14,Jyväskylä,Mid,SQL|Python|Power BI|Excel|Azure|Statistics|Microsoft Fabric|Airflow,8,,synthetic
+c5d79cefa991,Senior BI Analyst,Accenture Finland,2025-10-10,Remote,Senior,SQL|Python|Excel|Statistics|Databricks|Power Query|Looker Studio,7,,synthetic
+51299b449ba9,Data Analyst,Nordea,2024-09-10,Turku,Mid,SQL|Power BI|Statistics|Spark|DBT,5,,synthetic
+ec8700dead88,SQL Analyst,KPMG Finland,2024-05-28,Turku,Mid,SQL|Power BI|Excel|Azure|A/B Testing|Microsoft Fabric|Power Query,7,,synthetic
+20f92caaca59,BI Analyst,Siili Solutions,2025-12-08,Espoo,Mid,SQL|Python|Excel|Azure|Statistics|DBT|Snowflake|Microsoft Fabric,8,,synthetic
+072c66aa2cef,Data Analyst – Power BI,Varma,2024-07-24,Remote,Mid,SQL|Python|Excel|Azure|Tableau,5,,synthetic
+3f7caf2dbe12,SQL Analyst,Finnair,2025-01-06,Helsinki,Mid,SQL|Power BI|Excel|Tableau|Machine Learning|DBT|Looker,7,,synthetic
+b115505b52f3,Data Analyst,Softwave,2025-08-30,Helsinki,Mid,SQL|Python|Power BI|Azure|Tableau|Statistics|Qlik|GCP,8,,synthetic
+c6aaba069ef2,Junior Data Analyst,Gofore,2026-04-22,Helsinki,Junior,SQL|Python|Excel|A/B Testing|Spark|DBT|Databricks,7,,synthetic
+b369d5349ffe,Lead Data Analyst,Gofore,2024-03-02,Helsinki,Senior,SQL|Power BI|DBT|Databricks,4,,synthetic
+67e78b32b98c,Business Intelligence Analyst,Solita,2025-07-29,Helsinki,Mid,SQL|Python|Power BI|Azure|Tableau|DAX|Looker,7,,synthetic
+e2792dc14880,Business Intelligence Analyst,Siili Solutions,2026-04-01,Tampere,Mid,SQL|Python|Power BI|Excel|A/B Testing|Spark|Databricks|Snowflake|DAX,9,,synthetic
+e769ac95fc31,SQL Analyst,Capgemini Finland,2025-07-03,Jyväskylä,Mid,Python|Power BI|Excel|Azure|Tableau|A/B Testing|Spark|DAX,8,,synthetic
+8cf30e147274,Data Analyst,Finnair,2024-04-24,Helsinki,Mid,DAX|Superset,2,,synthetic
+5a966de1051b,Senior Data Analyst,Gofore,2024-04-18,Vantaa,Senior,SQL|Power BI|Azure|Tableau|Machine Learning|DBT|Databricks,7,,synthetic
+3f72050167dd,Senior Analytics Engineer,OP Financial Group,2025-08-24,Vantaa,Senior,SQL|Excel|Tableau|A/B Testing,4,,synthetic
+84be64cf31b2,Senior Analytics Engineer,Oura,2024-01-27,Helsinki,Senior,Python|Power BI|Excel|Azure|DBT,5,,synthetic
+6634efc80c29,BI Analyst,Accenture Finland,2026-01-05,Helsinki,Mid,SQL|Python|Power BI|Excel|Azure|Statistics|Databricks|GCP|SSRS,9,,synthetic
+8170a5b4d409,Data Analyst,Vincit,2025-11-19,Vantaa,Mid,SQL|Python|Power BI|Excel|Azure,5,,synthetic
+197017934d62,Data Analyst,Accenture Finland,2025-03-04,Turku,Mid,SQL|Python|Power BI|Excel|Azure|Databricks|Qlik,7,,synthetic
+3fe257bf61d7,Junior Data Analyst,Administer,2026-02-12,Oulu,Junior,SQL|Azure|Statistics|Machine Learning|A/B Testing|Spark|DBT|Snowflake|Power Query,9,,synthetic
+2c7a1e138d00,Data Analyst,Accenture Finland,2024-04-02,Helsinki,Mid,SQL|Python|Power BI|Azure|Tableau|A/B Testing|Snowflake|Looker,8,,synthetic
+1a9e50897d25,Data Analyst,Capgemini Finland,2024-11-10,Helsinki,Mid,SQL|Python|Azure|Machine Learning,4,,synthetic
+a20138e69917,Business Intelligence Analyst,Varma,2025-04-12,Turku,Mid,SQL|Python|Power BI|Excel|Tableau|A/B Testing|Spark|Power Query|R,9,,synthetic
+cf3c50e70035,SQL Analyst,Nordea,2024-06-19,Jyväskylä,Mid,SQL|Python|Azure|Databricks,4,,synthetic
+5a8cec10d67c,Senior Analytics Engineer,OP Financial Group,2025-09-15,Vantaa,Senior,SQL|Excel|Tableau|DBT|Databricks|Microsoft Fabric,6,,synthetic
+989b53ba3448,Business Intelligence Analyst,Futurice,2024-05-15,Helsinki,Mid,Spark|DBT|Power Query,3,,synthetic
+18a932577a09,Analytics Engineer,Vincit,2025-12-29,Espoo,Mid,SQL|Python|Power BI|Excel|DAX,5,,synthetic
+596632247467,Principal Analytics Engineer,S-Group,2024-05-25,Jyväskylä,Senior,SQL|Python|Excel|Azure|Statistics|Machine Learning|A/B Testing,7,,synthetic
+30b17566feba,Principal Analytics Engineer,Wolt,2025-04-22,Vantaa,Senior,SQL|Machine Learning|Microsoft Fabric,3,,synthetic
+b92a29853889,BI Analyst,Capgemini Finland,2025-10-19,Helsinki,Mid,SQL|Excel|Tableau|Machine Learning|A/B Testing|DAX|R,7,,synthetic
+dc792b0aab5a,Analytics Engineer,Nordea,2024-12-17,Helsinki,Mid,SQL|Python|Power BI|Excel|Azure|Statistics|Machine Learning|A/B Testing|Spark|Microsoft Fabric|Airflow,11,,synthetic
+af5c037c68fc,Product Analyst,Metso,2025-01-25,Oulu,Mid,SQL|Python|Power BI|Azure|Tableau|Machine Learning|Databricks,7,,synthetic
+936a8a117914,Data Analyst,KPMG Finland,2024-03-08,Tampere,Mid,SQL|Python|Databricks,3,,synthetic
+84b69e180c55,SQL Analyst,Kone,2024-03-26,Remote,Mid,SQL|Power BI|Azure|Power Query,4,,synthetic
+ce1be67a61b4,Product Analyst,Nordea,2025-03-08,Tampere,Mid,SQL|Python|Excel|A/B Testing|Snowflake|Microsoft Fabric,6,,synthetic
+f584d0a211ed,Senior Data Analyst,Digia,2024-08-20,Espoo,Senior,SQL|Python|Power BI|Excel|Machine Learning|DAX|AWS,7,,synthetic
+65d18b1f8422,Data Analyst (Entry Level),Neste,2025-08-07,Helsinki,Junior,SQL|Excel|Tableau|A/B Testing|DBT|Airflow,6,,synthetic
+b9ffc55f7baf,Analytics Engineer,Elisa,2024-05-12,Tampere,Mid,SQL|Python|Power BI|Excel|Azure|A/B Testing|Databricks|Airflow|GCP|Looker Studio,10,,synthetic
+aae96c236a64,BI Analyst,Solita,2025-06-30,Helsinki,Mid,SQL|Excel|DAX|Microsoft Fabric|Power Query|Qlik|GCP,7,,synthetic
+b4adabd22f86,Data Analyst – Power BI,Metso,2026-02-23,Tampere,Mid,SQL|Python|Power BI|Excel|A/B Testing|Spark|Microsoft Fabric,7,,synthetic
+6578c7963586,Senior BI Analyst,OP Financial Group,2025-08-14,Helsinki,Senior,SQL|Python|Power BI|Tableau|Statistics|Machine Learning,6,,synthetic
+a67a1fb4ad15,Product Analyst,Finnair,2024-05-21,Helsinki,Mid,SQL|Power BI|Excel|Azure|Spark|DBT|Databricks|Superset,8,,synthetic
+af270c071f38,Senior Analytics Engineer,OP Financial Group,2025-11-09,Espoo,Senior,SQL|Power BI|Azure|Tableau|Machine Learning,5,,synthetic
+173e9676e4bc,Data Analyst (Entry Level),Elisa,2025-10-25,Espoo,Junior,SQL|Python|Excel,3,,synthetic
+f15632d18144,Senior Data Analyst,Varma,2025-03-28,Helsinki,Senior,SQL|Python|Tableau|A/B Testing|Spark|DBT|Snowflake|R,8,,synthetic
+356563153800,Data Analyst,Tietoevry,2024-12-08,Jyväskylä,Mid,SQL|Python|Excel|Azure|Statistics|DBT|Looker,7,,synthetic
+2f643e79d443,Analytics Engineer,Capgemini Finland,2026-04-04,Oulu,Mid,SQL|Excel|Tableau|Machine Learning,4,,synthetic
+4d8c61389dfe,Junior Data Analyst,Digia,2025-11-26,Vantaa,Junior,SQL|Python|Power BI|Excel|Azure|A/B Testing|Spark|GCP|SSRS,9,,synthetic
+6440b7bd1541,Data Analyst (Entry Level),Siili Solutions,2024-08-17,Helsinki,Junior,SQL|Python|Statistics|Microsoft Fabric|Power Query|R,6,,synthetic
+29a9df7050ce,BI Analyst,Capgemini Finland,2024-06-03,Espoo,Mid,SQL|Python|Excel|Azure|Machine Learning|DBT|GCP,7,,synthetic
+feafb303b88b,Graduate Data Analyst,Metso,2025-06-08,Tampere,Junior,SQL|Python|Power BI|A/B Testing|R|Qlik,6,,synthetic
+81c0a2db7193,Data Analyst,VR Group,2024-01-23,Remote,Mid,SQL|Python|Power BI|Machine Learning|A/B Testing|Snowflake,6,,synthetic
+4a1628008df7,Junior BI Analyst,KPMG Finland,2025-01-23,Oulu,Junior,SQL|Python|Excel|Azure|Tableau|Databricks|Airflow|Power Query,8,,synthetic
+d466a514765a,Senior Analytics Engineer,Accenture Finland,2025-01-28,Helsinki,Senior,SQL|Python|Power BI|Excel|Machine Learning|A/B Testing|Looker Studio,7,,synthetic
+32c35c0d73a6,BI Analyst,Kone,2025-06-14,Vantaa,Mid,SQL|Python|Azure|Tableau,4,,synthetic
+fdf27593d411,Product Analyst,VR Group,2026-01-08,Remote,Mid,SQL|Python|Tableau|Databricks|DAX,5,,synthetic
+b47f182fbfb6,Graduate Data Analyst,Tietoevry,2026-04-29,Helsinki,Junior,SQL|Python|Azure|Statistics|Snowflake,5,,synthetic
+47d0daab5336,Graduate Data Analyst,Solita,2025-10-07,Tampere,Junior,Python|Excel|Azure|DAX|Airflow|R,6,,synthetic
+c5f0b789cbd7,SQL Analyst,Vincit,2025-08-19,Helsinki,Mid,SQL|Python|Power BI|Excel|Tableau|Power Query,6,,synthetic
+09723fb99b8f,Senior Analytics Engineer,CGI Finland,2026-04-21,Espoo,Senior,SQL|Python|Azure|Machine Learning|A/B Testing,5,,synthetic
+b7193b1e7b16,Data Analyst – Power BI,Metso,2026-04-02,Espoo,Mid,SQL|Python|Azure|Tableau|Statistics|DBT,6,,synthetic
+2d1892c0a824,Data Analyst,Finnair,2024-12-22,Remote,Mid,SQL|Python|Excel|Tableau|A/B Testing,5,,synthetic
+4def78cb38da,Head of Analytics,S-Group,2025-07-04,Tampere,Senior,SQL|Python|Excel|Azure|Databricks|Looker|R,7,,synthetic
+02fb25909b99,Data Analyst,Gofore,2025-06-19,Helsinki,Mid,Python|Excel|Azure|Statistics|Machine Learning|DBT|Databricks,7,,synthetic
+f4a4621d5ee0,Product Analyst,KPMG Finland,2025-04-26,Espoo,Mid,SQL|Python|Excel|Machine Learning|Databricks|Snowflake,6,,synthetic
+60781892e7ef,Lead Data Analyst,Gofore,2024-09-18,Turku,Senior,SQL|Python|Statistics|A/B Testing|DBT|Microsoft Fabric|Looker|Qlik,8,,synthetic
+e3e76d8d5fb3,BI Analyst,Elisa,2024-02-07,Helsinki,Mid,SQL|Python|Azure|Tableau|Statistics|A/B Testing|DBT|Snowflake,8,,synthetic
+c77decac7cb3,Analytics Engineer,Digia,2025-06-18,Helsinki,Mid,Python|Power BI|Excel|Machine Learning|Power Query,5,,synthetic
+6bd4638aa60c,Senior BI Analyst,CGI Finland,2025-12-18,Helsinki,Senior,SQL|Python|Power BI|Excel|Tableau|Airflow|GCP,7,,synthetic
+2514e1227bce,SQL Analyst,Accenture Finland,2024-04-21,Jyväskylä,Mid,SQL|Power BI|Excel|Machine Learning|Spark,5,,synthetic
+4c4446d6eb55,Data Analyst,Tietoevry,2025-12-12,Espoo,Mid,SQL|Python|Power BI|Azure|Tableau|Statistics|Machine Learning|Airflow|Looker,9,,synthetic
+58d46d22cdaf,Senior BI Analyst,Fortum,2024-02-16,Jyväskylä,Senior,SQL|Python|Power BI|DBT|Snowflake|Looker,6,,synthetic
+b2a749e52518,Principal Analytics Engineer,Capgemini Finland,2024-02-26,Helsinki,Senior,SQL|Python|Power BI|Excel|Snowflake,5,,synthetic
+54c0cb9c34cb,Senior Analytics Engineer,Kone,2024-06-10,Espoo,Senior,Python|Power BI|Excel|Statistics|Machine Learning|Spark|GCP,7,,synthetic
+80e44173e50f,BI Analyst,Nordea,2024-01-17,Espoo,Mid,SQL|Excel|Azure|Tableau|Snowflake|R,6,,synthetic
+17ff152cb88a,Lead Data Analyst,Gofore,2024-02-04,Jyväskylä,Senior,SQL|Python|Excel|A/B Testing|Power Query|Looker Studio,6,,synthetic
+1c05a870d8fa,SQL Analyst,Kone,2024-10-18,Tampere,Mid,SQL|Power BI|Azure|Tableau|Databricks|Microsoft Fabric|Power Query|GCP,8,,synthetic
+1554075e3dd2,Data Analyst – Power BI,Solita,2024-07-10,Remote,Mid,SQL|Python|Power BI|Excel|A/B Testing|AWS|SSRS,7,,synthetic
+ce0fdee113a1,Senior Data Analyst,VR Group,2025-10-05,Helsinki,Senior,SQL|Power BI|Azure|Databricks|Power Query,5,,synthetic
+c32d4fe0c995,Senior BI Analyst,CGI Finland,2024-08-08,Remote,Senior,SQL|Python|Power BI|Tableau|Airflow|SSRS,6,,synthetic
+0fa438ad5a5c,Junior Data Analyst,Stora Enso,2024-11-27,Helsinki,Junior,SQL|Power BI|Azure|Machine Learning|DBT|Airflow,6,,synthetic
+f8eb797baee6,Senior Analytics Engineer,Tietoevry,2026-04-16,Tampere,Senior,SQL|Power BI|Excel|Tableau|Statistics|Machine Learning|DBT|Airflow,8,,synthetic
+66704586a9ac,Product Analyst,Reaktor,2025-11-28,Espoo,Mid,SQL|Power BI|Excel,3,,synthetic
+54cfba94abd7,Principal Analytics Engineer,Neste,2025-11-09,Espoo,Senior,SQL|Python|Excel|DBT|Databricks|DAX|Qlik,7,,synthetic
+2abdd272721b,SQL Analyst,Solita,2025-07-11,Remote,Mid,SQL|Python|Power BI|Excel|Tableau|Statistics|Snowflake|GCP,8,,synthetic
+1570f253b9ec,Data Analyst – Power BI,Capgemini Finland,2026-01-31,Helsinki,Mid,Python|Azure|Tableau|DBT,4,,synthetic
+494f182ef993,Data Analyst – Power BI,DNA Finland,2024-01-14,Espoo,Mid,SQL|Azure|Tableau|Snowflake|Qlik,5,,synthetic
+b191a1f7d67e,Senior Data Analyst,CGI Finland,2025-06-06,Espoo,Senior,SQL|Python|Power BI|Power Query|GCP,5,,synthetic
+30e6e7880085,Principal Analytics Engineer,Digia,2024-01-27,Turku,Senior,SQL|Python|Power BI|Excel|A/B Testing|Spark,6,,synthetic
+7940f770f88a,Analytics Engineer,Tietoevry,2024-03-20,Tampere,Mid,SQL|Python|Power BI,3,,synthetic
+a6dc8fb59b78,Data Analyst,VR Group,2025-07-24,Tampere,Mid,Power BI|Excel|Azure|Tableau|Statistics|Snowflake|Microsoft Fabric,7,,synthetic
+7f5ea6842394,SQL Analyst,Capgemini Finland,2024-07-22,Other Finland,Mid,SQL|Python|Excel|Azure|A/B Testing,5,,synthetic
+90a1f2ac9f96,Junior Data Analyst,VR Group,2024-05-10,Helsinki,Junior,SQL|Power BI|Looker Studio,3,,synthetic
+b4daac10200a,Head of Analytics,OP Financial Group,2025-11-14,Tampere,Senior,SQL|Python|Airflow,3,,synthetic
+942edfc5bf53,Senior Analytics Engineer,OP Financial Group,2024-08-19,Tampere,Senior,SQL|Python|Power BI|Azure|Spark|Databricks|Airflow,7,,synthetic
+cc7b862e376f,Junior BI Analyst,Nordea,2024-03-03,Turku,Junior,SQL|Python|Power BI|Excel|Tableau|Statistics|Machine Learning|Databricks,8,,synthetic
+8a9bef32ab5d,Business Intelligence Analyst,OP Financial Group,2024-10-31,Tampere,Mid,SQL|Python|Power BI|Excel|Tableau|Machine Learning|A/B Testing|Databricks|R,9,,synthetic
+4475167df9de,Data Analyst – Power BI,S-Group,2024-07-27,Vantaa,Mid,SQL|Power BI|A/B Testing|Looker Studio,4,,synthetic
+fa02db573b99,BI Analyst,DNA Finland,2024-05-22,Helsinki,Mid,SQL|Python|Power BI|Microsoft Fabric|R,5,,synthetic
+0a5e6f7b1b1a,Product Analyst,Neste,2026-01-08,Jyväskylä,Mid,SQL|Power BI|Statistics|Machine Learning,4,,synthetic
+3d0fe2a90c2d,Junior BI Analyst,Tietoevry,2025-08-07,Helsinki,Junior,SQL|Python|Excel|Tableau|A/B Testing|Spark|Snowflake|Airflow,8,,synthetic
+f7762ccff42e,Senior BI Analyst,Metso,2026-01-17,Vantaa,Senior,SQL|Python|Tableau|Statistics|Spark,5,,synthetic
+bacca67b70c9,Senior Data Analyst,Gofore,2024-06-04,Helsinki,Senior,Python|Excel|Azure|Spark|DBT,5,,synthetic
+f96b1d53e672,Analytics Engineer,Fortum,2024-03-10,Remote,Mid,SQL|Python|Tableau|Snowflake,4,,synthetic
+6f1bac4f4bdb,Junior BI Analyst,Nordea,2024-12-17,Helsinki,Junior,SQL|Python|Power BI|Tableau|A/B Testing|DBT|Airflow|Power Query|Looker,9,,synthetic
+e5ec3ab8fefb,BI Analyst,Tietoevry,2024-10-30,Jyväskylä,Mid,SQL|Excel|Statistics|Airflow,4,,synthetic
+35bcd95b7152,Lead Data Analyst,Metso,2024-07-28,Vantaa,Senior,Python|Power BI|Excel|Azure|Statistics|Machine Learning|Spark,7,,synthetic
+71d816b8e4d5,Lead Data Analyst,Kone,2026-03-16,Remote,Senior,SQL|Python|Tableau|Machine Learning,4,,synthetic
+a2546d6c634f,Lead Data Analyst,S-Group,2024-01-10,Helsinki,Senior,SQL|Python|Power BI|Excel|Statistics|Looker,6,,synthetic
+8fbca280008c,Data Analyst (Entry Level),OP Financial Group,2025-01-14,Helsinki,Junior,SQL|Python|Azure|A/B Testing|DBT|Databricks|Microsoft Fabric,7,,synthetic
+53a6d7c98852,Lead Data Analyst,Elisa,2024-04-05,Oulu,Senior,SQL|Excel|Azure|Tableau|Statistics|Databricks,6,,synthetic
+229e6b6b48af,Graduate Data Analyst,Accenture Finland,2025-03-22,Vantaa,Junior,SQL|Python|Excel|Tableau|Statistics,5,,synthetic
+1545a9a4f785,Data Analyst – Power BI,DNA Finland,2026-04-19,Helsinki,Mid,SQL|Power BI|Snowflake|DAX|Airflow|R,6,,synthetic
+bc1debee95e6,Lead Data Analyst,Varma,2026-04-01,Vantaa,Senior,SQL|Python|Power BI|Azure|Looker|GCP,6,,synthetic
+c16d9a3e63b8,Data Analyst,Fortum,2024-08-14,Espoo,Mid,SQL|Python|Tableau|Statistics|Superset,5,,synthetic
+fd65a14aec01,Product Analyst,KPMG Finland,2024-10-04,Remote,Mid,SQL|Power BI|Tableau,3,,synthetic
+72ce017a0435,Junior Data Analyst,Stora Enso,2025-12-01,Remote,Junior,SQL|Power BI|A/B Testing|Airflow,4,,synthetic
+ed1bab04f464,Analytics Engineer,Finnair,2025-03-29,Other Finland,Mid,SQL|Python|Power BI|Machine Learning|A/B Testing|Spark|DBT,7,,synthetic
+db4a770a76eb,Analytics Engineer,DNA Finland,2026-02-01,Helsinki,Mid,SQL|Python|Power BI|Azure|DBT,5,,synthetic
+34c3470c72ac,Senior Analytics Engineer,Tietoevry,2025-11-06,Oulu,Senior,SQL|Python|Power BI|Statistics|Machine Learning|Spark|R,7,,synthetic
+4ed0787913ac,Data Analyst – Power BI,Nordea,2024-03-24,Tampere,Mid,Python|Power BI|DAX,3,,synthetic
