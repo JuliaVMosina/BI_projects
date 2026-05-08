@@ -1,0 +1,9 @@
+region_id,region_name,is_capital,population
+1,Helsinki,True,658457
+2,Espoo,False,302472
+3,Tampere,False,244223
+4,Vantaa,False,238047
+5,Oulu,False,210481
+6,Turku,False,197853
+7,Jyväskylä,False,146193
+8,Kuopio,False,121068

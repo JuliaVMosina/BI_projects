@@ -1,0 +1,9 @@
+role_id,role_name,seniority,domain
+1,BI Analyst,Mid,Analytics
+2,Data Engineer,Mid,Engineering
+3,Data Analyst,Junior,Analytics
+4,Software Developer,Mid,Development
+5,BI Developer,Senior,Analytics
+6,ML Engineer,Senior,Engineering
+7,Product Analyst,Mid,Analytics
+8,Data Scientist,Senior,Analytics
