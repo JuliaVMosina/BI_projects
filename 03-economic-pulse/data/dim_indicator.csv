@@ -1,0 +1,5 @@
+indicator_id,indicator,category,frequency,unit,description
+1,GDP Growth YoY %,Economy,Quarterly,%,Real GDP growth compared to same quarter previous year
+2,CPI Inflation YoY %,Prices,Monthly,%,Consumer Price Index change compared to same month previous year
+3,Employment Rate %,Labour Market,Quarterly,%,Share of employed persons aged 15-64 in total population
+4,Unemployment Rate %,Labour Market,Monthly,%,Share of unemployed persons in labour force

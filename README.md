@@ -39,9 +39,9 @@ skill demand trends across seniority levels, companies, and regions.
 Connected directly to the StatFin API (Statistics Finland).
 Scheduled refresh in Power BI Service — data updates automatically.
 
-**Stack:** Python · Power BI Service · DAX  
-**Skills demonstrated:** REST API integration · DAX time intelligence · scheduled refresh · mobile layout  
-→ [View project](./03-economic-pulse/)
+**Stack:** Python · Tableau Public  
+**Skills demonstrated:** REST API integration · star schema · time series visualization · KPI design  
+→ [View live dashboard](https://public.tableau.com/app/profile/julia.v.mosina/viz/FinlandEconomicPulseGDPCPIEmployment20152026/Dashboard1) · [View project](./03-economic-pulse/)
 
 ---
 

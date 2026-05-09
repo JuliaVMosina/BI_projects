@@ -1,0 +1,364 @@
+time_id,indicator_id,indicator,date,year,value,frequency,unit
+1,1,GDP Growth YoY %,2015-01-01,2015,0.47,Quarterly,%
+4,1,GDP Growth YoY %,2015-04-01,2015,0.58,Quarterly,%
+7,1,GDP Growth YoY %,2015-07-01,2015,1.3,Quarterly,%
+10,1,GDP Growth YoY %,2015-10-01,2015,2.13,Quarterly,%
+13,1,GDP Growth YoY %,2016-01-01,2016,1.66,Quarterly,%
+16,1,GDP Growth YoY %,2016-04-01,2016,2.06,Quarterly,%
+19,1,GDP Growth YoY %,2016-07-01,2016,2.64,Quarterly,%
+22,1,GDP Growth YoY %,2016-10-01,2016,2.92,Quarterly,%
+25,1,GDP Growth YoY %,2017-01-01,2017,2.93,Quarterly,%
+28,1,GDP Growth YoY %,2017-04-01,2017,3.28,Quarterly,%
+31,1,GDP Growth YoY %,2017-07-01,2017,3.03,Quarterly,%
+34,1,GDP Growth YoY %,2017-10-01,2017,2.73,Quarterly,%
+37,1,GDP Growth YoY %,2018-01-01,2018,2.54,Quarterly,%
+40,1,GDP Growth YoY %,2018-04-01,2018,2.01,Quarterly,%
+43,1,GDP Growth YoY %,2018-07-01,2018,1.74,Quarterly,%
+46,1,GDP Growth YoY %,2018-10-01,2018,1.72,Quarterly,%
+49,1,GDP Growth YoY %,2019-01-01,2019,1.45,Quarterly,%
+52,1,GDP Growth YoY %,2019-04-01,2019,1.45,Quarterly,%
+55,1,GDP Growth YoY %,2019-07-01,2019,1.06,Quarterly,%
+58,1,GDP Growth YoY %,2019-10-01,2019,0.59,Quarterly,%
+61,1,GDP Growth YoY %,2020-01-01,2020,-1.88,Quarterly,%
+64,1,GDP Growth YoY %,2020-04-01,2020,-5.83,Quarterly,%
+67,1,GDP Growth YoY %,2020-07-01,2020,-4.19,Quarterly,%
+70,1,GDP Growth YoY %,2020-10-01,2020,-3.01,Quarterly,%
+73,1,GDP Growth YoY %,2021-01-01,2021,0.72,Quarterly,%
+76,1,GDP Growth YoY %,2021-04-01,2021,4.22,Quarterly,%
+79,1,GDP Growth YoY %,2021-07-01,2021,4.93,Quarterly,%
+82,1,GDP Growth YoY %,2021-10-01,2021,3.96,Quarterly,%
+85,1,GDP Growth YoY %,2022-01-01,2022,3.11,Quarterly,%
+88,1,GDP Growth YoY %,2022-04-01,2022,2.76,Quarterly,%
+91,1,GDP Growth YoY %,2022-07-01,2022,1.81,Quarterly,%
+94,1,GDP Growth YoY %,2022-10-01,2022,0.68,Quarterly,%
+97,1,GDP Growth YoY %,2023-01-01,2023,-0.5,Quarterly,%
+100,1,GDP Growth YoY %,2023-04-01,2023,-1.36,Quarterly,%
+103,1,GDP Growth YoY %,2023-07-01,2023,-0.88,Quarterly,%
+106,1,GDP Growth YoY %,2023-10-01,2023,-0.98,Quarterly,%
+109,1,GDP Growth YoY %,2024-01-01,2024,0.23,Quarterly,%
+112,1,GDP Growth YoY %,2024-04-01,2024,0.31,Quarterly,%
+115,1,GDP Growth YoY %,2024-07-01,2024,0.9,Quarterly,%
+118,1,GDP Growth YoY %,2024-10-01,2024,1.43,Quarterly,%
+121,1,GDP Growth YoY %,2025-01-01,2025,1.71,Quarterly,%
+124,1,GDP Growth YoY %,2025-04-01,2025,1.83,Quarterly,%
+127,1,GDP Growth YoY %,2025-07-01,2025,1.98,Quarterly,%
+130,1,GDP Growth YoY %,2025-10-01,2025,2.05,Quarterly,%
+133,1,GDP Growth YoY %,2026-01-01,2026,1.98,Quarterly,%
+1,2,CPI Inflation YoY %,2015-01-01,2015,0.4,Monthly,%
+2,2,CPI Inflation YoY %,2015-02-01,2015,0.28,Monthly,%
+3,2,CPI Inflation YoY %,2015-03-01,2015,0.42,Monthly,%
+4,2,CPI Inflation YoY %,2015-04-01,2015,0.35,Monthly,%
+5,2,CPI Inflation YoY %,2015-05-01,2015,0.52,Monthly,%
+6,2,CPI Inflation YoY %,2015-06-01,2015,0.12,Monthly,%
+7,2,CPI Inflation YoY %,2015-07-01,2015,0.15,Monthly,%
+8,2,CPI Inflation YoY %,2015-08-01,2015,0.34,Monthly,%
+9,2,CPI Inflation YoY %,2015-09-01,2015,0.15,Monthly,%
+10,2,CPI Inflation YoY %,2015-10-01,2015,-0.15,Monthly,%
+11,2,CPI Inflation YoY %,2015-11-01,2015,-0.02,Monthly,%
+12,2,CPI Inflation YoY %,2015-12-01,2015,0.29,Monthly,%
+13,2,CPI Inflation YoY %,2016-01-01,2016,0.22,Monthly,%
+14,2,CPI Inflation YoY %,2016-02-01,2016,0.49,Monthly,%
+15,2,CPI Inflation YoY %,2016-03-01,2016,0.8,Monthly,%
+16,2,CPI Inflation YoY %,2016-04-01,2016,0.63,Monthly,%
+17,2,CPI Inflation YoY %,2016-05-01,2016,0.94,Monthly,%
+18,2,CPI Inflation YoY %,2016-06-01,2016,0.28,Monthly,%
+19,2,CPI Inflation YoY %,2016-07-01,2016,0.04,Monthly,%
+20,2,CPI Inflation YoY %,2016-08-01,2016,-0.04,Monthly,%
+21,2,CPI Inflation YoY %,2016-09-01,2016,0.1,Monthly,%
+22,2,CPI Inflation YoY %,2016-10-01,2016,0.11,Monthly,%
+23,2,CPI Inflation YoY %,2016-11-01,2016,0.7,Monthly,%
+24,2,CPI Inflation YoY %,2016-12-01,2016,0.32,Monthly,%
+25,2,CPI Inflation YoY %,2017-01-01,2017,0.86,Monthly,%
+26,2,CPI Inflation YoY %,2017-02-01,2017,1.14,Monthly,%
+27,2,CPI Inflation YoY %,2017-03-01,2017,0.98,Monthly,%
+28,2,CPI Inflation YoY %,2017-04-01,2017,1.07,Monthly,%
+29,2,CPI Inflation YoY %,2017-05-01,2017,0.93,Monthly,%
+30,2,CPI Inflation YoY %,2017-06-01,2017,0.87,Monthly,%
+31,2,CPI Inflation YoY %,2017-07-01,2017,0.27,Monthly,%
+32,2,CPI Inflation YoY %,2017-08-01,2017,0.6,Monthly,%
+33,2,CPI Inflation YoY %,2017-09-01,2017,0.37,Monthly,%
+34,2,CPI Inflation YoY %,2017-10-01,2017,0.48,Monthly,%
+35,2,CPI Inflation YoY %,2017-11-01,2017,0.47,Monthly,%
+36,2,CPI Inflation YoY %,2017-12-01,2017,1.03,Monthly,%
+37,2,CPI Inflation YoY %,2018-01-01,2018,0.94,Monthly,%
+38,2,CPI Inflation YoY %,2018-02-01,2018,1.74,Monthly,%
+39,2,CPI Inflation YoY %,2018-03-01,2018,1.36,Monthly,%
+40,2,CPI Inflation YoY %,2018-04-01,2018,1.77,Monthly,%
+41,2,CPI Inflation YoY %,2018-05-01,2018,1.59,Monthly,%
+42,2,CPI Inflation YoY %,2018-06-01,2018,1.4,Monthly,%
+43,2,CPI Inflation YoY %,2018-07-01,2018,1.22,Monthly,%
+44,2,CPI Inflation YoY %,2018-08-01,2018,1.39,Monthly,%
+45,2,CPI Inflation YoY %,2018-09-01,2018,0.78,Monthly,%
+46,2,CPI Inflation YoY %,2018-10-01,2018,0.82,Monthly,%
+47,2,CPI Inflation YoY %,2018-11-01,2018,0.92,Monthly,%
+48,2,CPI Inflation YoY %,2018-12-01,2018,1.39,Monthly,%
+49,2,CPI Inflation YoY %,2019-01-01,2019,0.89,Monthly,%
+50,2,CPI Inflation YoY %,2019-02-01,2019,1.46,Monthly,%
+51,2,CPI Inflation YoY %,2019-03-01,2019,1.24,Monthly,%
+52,2,CPI Inflation YoY %,2019-04-01,2019,1.05,Monthly,%
+53,2,CPI Inflation YoY %,2019-05-01,2019,0.93,Monthly,%
+54,2,CPI Inflation YoY %,2019-06-01,2019,0.84,Monthly,%
+55,2,CPI Inflation YoY %,2019-07-01,2019,0.55,Monthly,%
+56,2,CPI Inflation YoY %,2019-08-01,2019,0.84,Monthly,%
+57,2,CPI Inflation YoY %,2019-09-01,2019,0.87,Monthly,%
+58,2,CPI Inflation YoY %,2019-10-01,2019,0.93,Monthly,%
+59,2,CPI Inflation YoY %,2019-11-01,2019,0.72,Monthly,%
+60,2,CPI Inflation YoY %,2019-12-01,2019,1.06,Monthly,%
+61,2,CPI Inflation YoY %,2020-01-01,2020,0.45,Monthly,%
+62,2,CPI Inflation YoY %,2020-02-01,2020,0.7,Monthly,%
+63,2,CPI Inflation YoY %,2020-03-01,2020,0.69,Monthly,%
+64,2,CPI Inflation YoY %,2020-04-01,2020,0.58,Monthly,%
+65,2,CPI Inflation YoY %,2020-05-01,2020,0.08,Monthly,%
+66,2,CPI Inflation YoY %,2020-06-01,2020,0.27,Monthly,%
+67,2,CPI Inflation YoY %,2020-07-01,2020,0.17,Monthly,%
+68,2,CPI Inflation YoY %,2020-08-01,2020,-0.1,Monthly,%
+69,2,CPI Inflation YoY %,2020-09-01,2020,-0.05,Monthly,%
+70,2,CPI Inflation YoY %,2020-10-01,2020,-0.22,Monthly,%
+71,2,CPI Inflation YoY %,2020-11-01,2020,0.09,Monthly,%
+72,2,CPI Inflation YoY %,2020-12-01,2020,0.4,Monthly,%
+73,2,CPI Inflation YoY %,2021-01-01,2021,2.77,Monthly,%
+74,2,CPI Inflation YoY %,2021-02-01,2021,2.26,Monthly,%
+75,2,CPI Inflation YoY %,2021-03-01,2021,2.5,Monthly,%
+76,2,CPI Inflation YoY %,2021-04-01,2021,2.27,Monthly,%
+77,2,CPI Inflation YoY %,2021-05-01,2021,2.33,Monthly,%
+78,2,CPI Inflation YoY %,2021-06-01,2021,2.16,Monthly,%
+79,2,CPI Inflation YoY %,2021-07-01,2021,2.22,Monthly,%
+80,2,CPI Inflation YoY %,2021-08-01,2021,2.14,Monthly,%
+81,2,CPI Inflation YoY %,2021-09-01,2021,1.93,Monthly,%
+82,2,CPI Inflation YoY %,2021-10-01,2021,1.92,Monthly,%
+83,2,CPI Inflation YoY %,2021-11-01,2021,2.29,Monthly,%
+84,2,CPI Inflation YoY %,2021-12-01,2021,2.24,Monthly,%
+85,2,CPI Inflation YoY %,2022-01-01,2022,7.65,Monthly,%
+86,2,CPI Inflation YoY %,2022-02-01,2022,7.13,Monthly,%
+87,2,CPI Inflation YoY %,2022-03-01,2022,7.86,Monthly,%
+88,2,CPI Inflation YoY %,2022-04-01,2022,7.34,Monthly,%
+89,2,CPI Inflation YoY %,2022-05-01,2022,7.13,Monthly,%
+90,2,CPI Inflation YoY %,2022-06-01,2022,7.19,Monthly,%
+91,2,CPI Inflation YoY %,2022-07-01,2022,6.82,Monthly,%
+92,2,CPI Inflation YoY %,2022-08-01,2022,7.05,Monthly,%
+93,2,CPI Inflation YoY %,2022-09-01,2022,6.81,Monthly,%
+94,2,CPI Inflation YoY %,2022-10-01,2022,7.0,Monthly,%
+95,2,CPI Inflation YoY %,2022-11-01,2022,6.85,Monthly,%
+96,2,CPI Inflation YoY %,2022-12-01,2022,7.16,Monthly,%
+97,2,CPI Inflation YoY %,2023-01-01,2023,4.97,Monthly,%
+98,2,CPI Inflation YoY %,2023-02-01,2023,5.02,Monthly,%
+99,2,CPI Inflation YoY %,2023-03-01,2023,5.42,Monthly,%
+100,2,CPI Inflation YoY %,2023-04-01,2023,5.18,Monthly,%
+101,2,CPI Inflation YoY %,2023-05-01,2023,4.99,Monthly,%
+102,2,CPI Inflation YoY %,2023-06-01,2023,4.43,Monthly,%
+103,2,CPI Inflation YoY %,2023-07-01,2023,4.73,Monthly,%
+104,2,CPI Inflation YoY %,2023-08-01,2023,4.79,Monthly,%
+105,2,CPI Inflation YoY %,2023-09-01,2023,4.36,Monthly,%
+106,2,CPI Inflation YoY %,2023-10-01,2023,4.5,Monthly,%
+107,2,CPI Inflation YoY %,2023-11-01,2023,4.04,Monthly,%
+108,2,CPI Inflation YoY %,2023-12-01,2023,4.55,Monthly,%
+109,2,CPI Inflation YoY %,2024-01-01,2024,1.83,Monthly,%
+110,2,CPI Inflation YoY %,2024-02-01,2024,2.38,Monthly,%
+111,2,CPI Inflation YoY %,2024-03-01,2024,2.37,Monthly,%
+112,2,CPI Inflation YoY %,2024-04-01,2024,2.34,Monthly,%
+113,2,CPI Inflation YoY %,2024-05-01,2024,2.16,Monthly,%
+114,2,CPI Inflation YoY %,2024-06-01,2024,2.3,Monthly,%
+115,2,CPI Inflation YoY %,2024-07-01,2024,1.7,Monthly,%
+116,2,CPI Inflation YoY %,2024-08-01,2024,1.83,Monthly,%
+117,2,CPI Inflation YoY %,2024-09-01,2024,1.92,Monthly,%
+118,2,CPI Inflation YoY %,2024-10-01,2024,1.8,Monthly,%
+119,2,CPI Inflation YoY %,2024-11-01,2024,1.93,Monthly,%
+120,2,CPI Inflation YoY %,2024-12-01,2024,1.93,Monthly,%
+121,2,CPI Inflation YoY %,2025-01-01,2025,1.88,Monthly,%
+122,2,CPI Inflation YoY %,2025-02-01,2025,2.2,Monthly,%
+123,2,CPI Inflation YoY %,2025-03-01,2025,1.7,Monthly,%
+124,2,CPI Inflation YoY %,2025-04-01,2025,2.03,Monthly,%
+125,2,CPI Inflation YoY %,2025-05-01,2025,1.83,Monthly,%
+126,2,CPI Inflation YoY %,2025-06-01,2025,1.79,Monthly,%
+127,2,CPI Inflation YoY %,2025-07-01,2025,2.0,Monthly,%
+128,2,CPI Inflation YoY %,2025-08-01,2025,1.45,Monthly,%
+129,2,CPI Inflation YoY %,2025-09-01,2025,1.8,Monthly,%
+130,2,CPI Inflation YoY %,2025-10-01,2025,1.76,Monthly,%
+131,2,CPI Inflation YoY %,2025-11-01,2025,1.66,Monthly,%
+132,2,CPI Inflation YoY %,2025-12-01,2025,1.82,Monthly,%
+133,2,CPI Inflation YoY %,2026-01-01,2026,1.79,Monthly,%
+134,2,CPI Inflation YoY %,2026-02-01,2026,1.69,Monthly,%
+135,2,CPI Inflation YoY %,2026-03-01,2026,2.03,Monthly,%
+136,2,CPI Inflation YoY %,2026-04-01,2026,1.74,Monthly,%
+1,3,Employment Rate %,2015-01-01,2015,66.7,Quarterly,%
+4,3,Employment Rate %,2015-04-01,2015,68.8,Quarterly,%
+7,3,Employment Rate %,2015-07-01,2015,69.4,Quarterly,%
+10,3,Employment Rate %,2015-10-01,2015,67.5,Quarterly,%
+13,3,Employment Rate %,2016-01-01,2016,67.2,Quarterly,%
+16,3,Employment Rate %,2016-04-01,2016,68.8,Quarterly,%
+19,3,Employment Rate %,2016-07-01,2016,70.2,Quarterly,%
+22,3,Employment Rate %,2016-10-01,2016,68.4,Quarterly,%
+25,3,Employment Rate %,2017-01-01,2017,68.4,Quarterly,%
+28,3,Employment Rate %,2017-04-01,2017,70.1,Quarterly,%
+31,3,Employment Rate %,2017-07-01,2017,70.5,Quarterly,%
+34,3,Employment Rate %,2017-10-01,2017,69.3,Quarterly,%
+37,3,Employment Rate %,2018-01-01,2018,70.0,Quarterly,%
+40,3,Employment Rate %,2018-04-01,2018,71.9,Quarterly,%
+43,3,Employment Rate %,2018-07-01,2018,72.3,Quarterly,%
+46,3,Employment Rate %,2018-10-01,2018,71.2,Quarterly,%
+49,3,Employment Rate %,2019-01-01,2019,71.6,Quarterly,%
+52,3,Employment Rate %,2019-04-01,2019,73.0,Quarterly,%
+55,3,Employment Rate %,2019-07-01,2019,73.9,Quarterly,%
+58,3,Employment Rate %,2019-10-01,2019,72.1,Quarterly,%
+61,3,Employment Rate %,2020-01-01,2020,69.5,Quarterly,%
+64,3,Employment Rate %,2020-04-01,2020,71.3,Quarterly,%
+67,3,Employment Rate %,2020-07-01,2020,72.0,Quarterly,%
+70,3,Employment Rate %,2020-10-01,2020,70.3,Quarterly,%
+73,3,Employment Rate %,2021-01-01,2021,70.5,Quarterly,%
+76,3,Employment Rate %,2021-04-01,2021,72.4,Quarterly,%
+79,3,Employment Rate %,2021-07-01,2021,72.8,Quarterly,%
+82,3,Employment Rate %,2021-10-01,2021,71.5,Quarterly,%
+85,3,Employment Rate %,2022-01-01,2022,72.1,Quarterly,%
+88,3,Employment Rate %,2022-04-01,2022,73.8,Quarterly,%
+91,3,Employment Rate %,2022-07-01,2022,74.6,Quarterly,%
+94,3,Employment Rate %,2022-10-01,2022,73.2,Quarterly,%
+97,3,Employment Rate %,2023-01-01,2023,72.7,Quarterly,%
+100,3,Employment Rate %,2023-04-01,2023,74.4,Quarterly,%
+103,3,Employment Rate %,2023-07-01,2023,75.0,Quarterly,%
+106,3,Employment Rate %,2023-10-01,2023,73.5,Quarterly,%
+109,3,Employment Rate %,2024-01-01,2024,72.7,Quarterly,%
+112,3,Employment Rate %,2024-04-01,2024,73.8,Quarterly,%
+115,3,Employment Rate %,2024-07-01,2024,75.0,Quarterly,%
+118,3,Employment Rate %,2024-10-01,2024,73.5,Quarterly,%
+121,3,Employment Rate %,2025-01-01,2025,73.0,Quarterly,%
+124,3,Employment Rate %,2025-04-01,2025,74.4,Quarterly,%
+127,3,Employment Rate %,2025-07-01,2025,75.6,Quarterly,%
+130,3,Employment Rate %,2025-10-01,2025,73.6,Quarterly,%
+133,3,Employment Rate %,2026-01-01,2026,73.5,Quarterly,%
+136,3,Employment Rate %,2026-04-01,2026,75.0,Quarterly,%
+1,4,Unemployment Rate %,2015-01-01,2015,9.0,Monthly,%
+2,4,Unemployment Rate %,2015-02-01,2015,9.2,Monthly,%
+3,4,Unemployment Rate %,2015-03-01,2015,9.3,Monthly,%
+4,4,Unemployment Rate %,2015-04-01,2015,9.6,Monthly,%
+5,4,Unemployment Rate %,2015-05-01,2015,9.6,Monthly,%
+6,4,Unemployment Rate %,2015-06-01,2015,9.4,Monthly,%
+7,4,Unemployment Rate %,2015-07-01,2015,9.9,Monthly,%
+8,4,Unemployment Rate %,2015-08-01,2015,9.5,Monthly,%
+9,4,Unemployment Rate %,2015-09-01,2015,9.5,Monthly,%
+10,4,Unemployment Rate %,2015-10-01,2015,9.3,Monthly,%
+11,4,Unemployment Rate %,2015-11-01,2015,9.0,Monthly,%
+12,4,Unemployment Rate %,2015-12-01,2015,9.0,Monthly,%
+13,4,Unemployment Rate %,2016-01-01,2016,8.1,Monthly,%
+14,4,Unemployment Rate %,2016-02-01,2016,8.7,Monthly,%
+15,4,Unemployment Rate %,2016-03-01,2016,8.4,Monthly,%
+16,4,Unemployment Rate %,2016-04-01,2016,9.0,Monthly,%
+17,4,Unemployment Rate %,2016-05-01,2016,9.0,Monthly,%
+18,4,Unemployment Rate %,2016-06-01,2016,9.3,Monthly,%
+19,4,Unemployment Rate %,2016-07-01,2016,9.2,Monthly,%
+20,4,Unemployment Rate %,2016-08-01,2016,8.7,Monthly,%
+21,4,Unemployment Rate %,2016-09-01,2016,8.7,Monthly,%
+22,4,Unemployment Rate %,2016-10-01,2016,8.3,Monthly,%
+23,4,Unemployment Rate %,2016-11-01,2016,8.2,Monthly,%
+24,4,Unemployment Rate %,2016-12-01,2016,8.4,Monthly,%
+25,4,Unemployment Rate %,2017-01-01,2017,7.9,Monthly,%
+26,4,Unemployment Rate %,2017-02-01,2017,8.7,Monthly,%
+27,4,Unemployment Rate %,2017-03-01,2017,8.5,Monthly,%
+28,4,Unemployment Rate %,2017-04-01,2017,9.0,Monthly,%
+29,4,Unemployment Rate %,2017-05-01,2017,9.5,Monthly,%
+30,4,Unemployment Rate %,2017-06-01,2017,8.8,Monthly,%
+31,4,Unemployment Rate %,2017-07-01,2017,8.9,Monthly,%
+32,4,Unemployment Rate %,2017-08-01,2017,8.8,Monthly,%
+33,4,Unemployment Rate %,2017-09-01,2017,8.4,Monthly,%
+34,4,Unemployment Rate %,2017-10-01,2017,8.6,Monthly,%
+35,4,Unemployment Rate %,2017-11-01,2017,8.1,Monthly,%
+36,4,Unemployment Rate %,2017-12-01,2017,8.4,Monthly,%
+37,4,Unemployment Rate %,2018-01-01,2018,6.9,Monthly,%
+38,4,Unemployment Rate %,2018-02-01,2018,7.2,Monthly,%
+39,4,Unemployment Rate %,2018-03-01,2018,7.3,Monthly,%
+40,4,Unemployment Rate %,2018-04-01,2018,7.6,Monthly,%
+41,4,Unemployment Rate %,2018-05-01,2018,7.9,Monthly,%
+42,4,Unemployment Rate %,2018-06-01,2018,8.0,Monthly,%
+43,4,Unemployment Rate %,2018-07-01,2018,7.7,Monthly,%
+44,4,Unemployment Rate %,2018-08-01,2018,7.5,Monthly,%
+45,4,Unemployment Rate %,2018-09-01,2018,7.3,Monthly,%
+46,4,Unemployment Rate %,2018-10-01,2018,7.1,Monthly,%
+47,4,Unemployment Rate %,2018-11-01,2018,6.7,Monthly,%
+48,4,Unemployment Rate %,2018-12-01,2018,6.8,Monthly,%
+49,4,Unemployment Rate %,2019-01-01,2019,6.5,Monthly,%
+50,4,Unemployment Rate %,2019-02-01,2019,6.2,Monthly,%
+51,4,Unemployment Rate %,2019-03-01,2019,6.7,Monthly,%
+52,4,Unemployment Rate %,2019-04-01,2019,7.3,Monthly,%
+53,4,Unemployment Rate %,2019-05-01,2019,7.0,Monthly,%
+54,4,Unemployment Rate %,2019-06-01,2019,7.0,Monthly,%
+55,4,Unemployment Rate %,2019-07-01,2019,7.2,Monthly,%
+56,4,Unemployment Rate %,2019-08-01,2019,6.9,Monthly,%
+57,4,Unemployment Rate %,2019-09-01,2019,6.9,Monthly,%
+58,4,Unemployment Rate %,2019-10-01,2019,6.1,Monthly,%
+59,4,Unemployment Rate %,2019-11-01,2019,6.3,Monthly,%
+60,4,Unemployment Rate %,2019-12-01,2019,6.2,Monthly,%
+61,4,Unemployment Rate %,2020-01-01,2020,7.3,Monthly,%
+62,4,Unemployment Rate %,2020-02-01,2020,7.4,Monthly,%
+63,4,Unemployment Rate %,2020-03-01,2020,7.8,Monthly,%
+64,4,Unemployment Rate %,2020-04-01,2020,8.3,Monthly,%
+65,4,Unemployment Rate %,2020-05-01,2020,8.2,Monthly,%
+66,4,Unemployment Rate %,2020-06-01,2020,8.3,Monthly,%
+67,4,Unemployment Rate %,2020-07-01,2020,8.3,Monthly,%
+68,4,Unemployment Rate %,2020-08-01,2020,8.0,Monthly,%
+69,4,Unemployment Rate %,2020-09-01,2020,7.7,Monthly,%
+70,4,Unemployment Rate %,2020-10-01,2020,7.6,Monthly,%
+71,4,Unemployment Rate %,2020-11-01,2020,7.7,Monthly,%
+72,4,Unemployment Rate %,2020-12-01,2020,7.4,Monthly,%
+73,4,Unemployment Rate %,2021-01-01,2021,7.1,Monthly,%
+74,4,Unemployment Rate %,2021-02-01,2021,7.6,Monthly,%
+75,4,Unemployment Rate %,2021-03-01,2021,7.8,Monthly,%
+76,4,Unemployment Rate %,2021-04-01,2021,8.1,Monthly,%
+77,4,Unemployment Rate %,2021-05-01,2021,7.7,Monthly,%
+78,4,Unemployment Rate %,2021-06-01,2021,8.1,Monthly,%
+79,4,Unemployment Rate %,2021-07-01,2021,8.4,Monthly,%
+80,4,Unemployment Rate %,2021-08-01,2021,8.2,Monthly,%
+81,4,Unemployment Rate %,2021-09-01,2021,7.6,Monthly,%
+82,4,Unemployment Rate %,2021-10-01,2021,7.2,Monthly,%
+83,4,Unemployment Rate %,2021-11-01,2021,7.0,Monthly,%
+84,4,Unemployment Rate %,2021-12-01,2021,7.1,Monthly,%
+85,4,Unemployment Rate %,2022-01-01,2022,6.3,Monthly,%
+86,4,Unemployment Rate %,2022-02-01,2022,6.6,Monthly,%
+87,4,Unemployment Rate %,2022-03-01,2022,6.8,Monthly,%
+88,4,Unemployment Rate %,2022-04-01,2022,6.9,Monthly,%
+89,4,Unemployment Rate %,2022-05-01,2022,7.2,Monthly,%
+90,4,Unemployment Rate %,2022-06-01,2022,7.3,Monthly,%
+91,4,Unemployment Rate %,2022-07-01,2022,7.1,Monthly,%
+92,4,Unemployment Rate %,2022-08-01,2022,6.8,Monthly,%
+93,4,Unemployment Rate %,2022-09-01,2022,6.8,Monthly,%
+94,4,Unemployment Rate %,2022-10-01,2022,6.4,Monthly,%
+95,4,Unemployment Rate %,2022-11-01,2022,6.3,Monthly,%
+96,4,Unemployment Rate %,2022-12-01,2022,6.1,Monthly,%
+97,4,Unemployment Rate %,2023-01-01,2023,7.2,Monthly,%
+98,4,Unemployment Rate %,2023-02-01,2023,7.3,Monthly,%
+99,4,Unemployment Rate %,2023-03-01,2023,7.0,Monthly,%
+100,4,Unemployment Rate %,2023-04-01,2023,7.9,Monthly,%
+101,4,Unemployment Rate %,2023-05-01,2023,8.0,Monthly,%
+102,4,Unemployment Rate %,2023-06-01,2023,8.1,Monthly,%
+103,4,Unemployment Rate %,2023-07-01,2023,8.1,Monthly,%
+104,4,Unemployment Rate %,2023-08-01,2023,7.9,Monthly,%
+105,4,Unemployment Rate %,2023-09-01,2023,7.3,Monthly,%
+106,4,Unemployment Rate %,2023-10-01,2023,7.6,Monthly,%
+107,4,Unemployment Rate %,2023-11-01,2023,6.9,Monthly,%
+108,4,Unemployment Rate %,2023-12-01,2023,6.9,Monthly,%
+109,4,Unemployment Rate %,2024-01-01,2024,7.5,Monthly,%
+110,4,Unemployment Rate %,2024-02-01,2024,7.2,Monthly,%
+111,4,Unemployment Rate %,2024-03-01,2024,8.1,Monthly,%
+112,4,Unemployment Rate %,2024-04-01,2024,7.9,Monthly,%
+113,4,Unemployment Rate %,2024-05-01,2024,8.1,Monthly,%
+114,4,Unemployment Rate %,2024-06-01,2024,8.8,Monthly,%
+115,4,Unemployment Rate %,2024-07-01,2024,7.9,Monthly,%
+116,4,Unemployment Rate %,2024-08-01,2024,7.7,Monthly,%
+117,4,Unemployment Rate %,2024-09-01,2024,7.9,Monthly,%
+118,4,Unemployment Rate %,2024-10-01,2024,7.3,Monthly,%
+119,4,Unemployment Rate %,2024-11-01,2024,7.2,Monthly,%
+120,4,Unemployment Rate %,2024-12-01,2024,7.3,Monthly,%
+121,4,Unemployment Rate %,2025-01-01,2025,7.0,Monthly,%
+122,4,Unemployment Rate %,2025-02-01,2025,7.1,Monthly,%
+123,4,Unemployment Rate %,2025-03-01,2025,7.5,Monthly,%
+124,4,Unemployment Rate %,2025-04-01,2025,7.4,Monthly,%
+125,4,Unemployment Rate %,2025-05-01,2025,8.1,Monthly,%
+126,4,Unemployment Rate %,2025-06-01,2025,7.5,Monthly,%
+127,4,Unemployment Rate %,2025-07-01,2025,7.9,Monthly,%
+128,4,Unemployment Rate %,2025-08-01,2025,8.0,Monthly,%
+129,4,Unemployment Rate %,2025-09-01,2025,7.3,Monthly,%
+130,4,Unemployment Rate %,2025-10-01,2025,7.3,Monthly,%
+131,4,Unemployment Rate %,2025-11-01,2025,6.8,Monthly,%
+132,4,Unemployment Rate %,2025-12-01,2025,6.6,Monthly,%
+133,4,Unemployment Rate %,2026-01-01,2026,6.3,Monthly,%
+134,4,Unemployment Rate %,2026-02-01,2026,6.7,Monthly,%
+135,4,Unemployment Rate %,2026-03-01,2026,7.4,Monthly,%
+136,4,Unemployment Rate %,2026-04-01,2026,7.4,Monthly,%
